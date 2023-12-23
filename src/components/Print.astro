@@ -4,12 +4,16 @@ const { slug } = Astro.props;
 
 const print = await getEntryBySlug('prints', slug);
 
+if (!print) {
+    return null;
+}
+
 const { Content } = await print.render();
 ---
-<div id={print.data.slug} class="print">
+<div id={print.slug} class="print">
     <h2>{print.data.title}</h2>
 
-    {print.data.image.path && (<figure><image src={print.data.image.path} width="800px" /><figcaption>{print.data.image.caption}</figcaption></figure>)}
+    {print.data.image.path && (<figure><img src={print.data.image.path} width="800px" /><figcaption>{print.data.image.caption}</figcaption></figure>)}
 
     <div>{print.data.year}</div>
     <div>{print.data.size.dimensions} {print.data.size.source !== null && (<a href="{print.data.size.source_url}">{print.data.size.source}</a>)}</div>
