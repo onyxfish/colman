@@ -5,6 +5,7 @@ import Layout from '../layouts/Layout.astro';
 import Print from '../components/Print.astro';
 
 const prints = await getCollection('prints');
+prints.sort((a, b) => a.data.sort_date - b.data.sort_date || a.slug - b.slug);
 ---
 
 <Layout title="A Catalogue Raisonne of Etchings by Samuel Colman">

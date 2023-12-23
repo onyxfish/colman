@@ -7,18 +7,18 @@ const printsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     image: z.object({
-      path: z.string().url().nullable(),
+      path: z.string().nullable(),
       caption: z.string().nullable(),
       missing_text: z.string().nullable()
     }),
     year: z.string(),
-    sort_year: z.number(),
+    sort_date: z.date(),
     size: z.object({
       dimensions: z.string().nullable(),
       source: z.string().nullable(),
       source_url: z.string().url().nullable()
     }),
-    signed: z.string(),
+    signed: z.string().nullable(),
     publications: z.string().array(),
     museums: z.object({
       name: z.string(),
