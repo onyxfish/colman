@@ -2,9 +2,11 @@
 import { getEntryBySlug } from 'astro:content';
 const { slug } = Astro.props;
 
-console.log(slug);
-
 const print = await getEntryBySlug('prints', slug);
 ---
 
-<p>{print.data.title}</p>
+<p>
+    {print.slug}<br />
+    {print.data.title}<br />
+    {print.data.human_date}
+</p>
