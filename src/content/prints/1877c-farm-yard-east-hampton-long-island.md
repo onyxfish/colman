@@ -5,7 +5,6 @@ image:
     caption: 
     missing_text: No image of this etching has been located.
 year: "c. 1877"
-sort_date: 1877-12-31
 size:
     dimensions: 
     source: 

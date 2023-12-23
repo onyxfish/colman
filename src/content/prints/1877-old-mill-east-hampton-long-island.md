@@ -5,7 +5,6 @@ image:
     caption: 
     missing_text: No public domain image is available for this work. Please visit The Baltimore Museum of Art to view it.
 year: "1877"
-sort_date: 1877-01-01
 size:
     dimensions: 
     source: 

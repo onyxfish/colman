@@ -5,7 +5,6 @@ image:
     caption: 
     missing_text: No public domain image is available for this work. Please visit The Syracuse University Art Museum to view it.
 year: "c. 1877"
-sort_date: 1877-12-31
 size:
     dimensions: 10.1 x 14.9 cm
     source: Syracuse

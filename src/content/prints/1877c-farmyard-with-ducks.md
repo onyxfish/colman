@@ -1,11 +1,10 @@
 ---
 title: "[Farmyard with Ducks]"
 image:
-    path: /prints/farmyard-with-ducks.jpg
+    path: /prints/1877c-farmyard-with-ducks.jpg
     caption: Public domain image from the Smithsonian Museum of American Art.
     missing_text: 
 year: "c. 1877"
-sort_date: 1877-12-31
 size:
     dimensions: 
     source: 

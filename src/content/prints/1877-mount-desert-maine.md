@@ -5,7 +5,6 @@ image:
     caption: 
     missing_text: No image of this etching has been located.
 year: "1877"
-sort_date: 1877-01-01
 size:
     dimensions: 8.9 x 11.4
     source: Koehler 1880

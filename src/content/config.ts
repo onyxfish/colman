@@ -12,7 +12,6 @@ const printsCollection = defineCollection({
       missing_text: z.string().nullable()
     }),
     year: z.string(),
-    sort_date: z.date(),
     size: z.object({
       dimensions: z.string().nullable(),
       source: z.string().nullable(),
