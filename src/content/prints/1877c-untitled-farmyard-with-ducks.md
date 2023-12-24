@@ -1,8 +1,8 @@
 ---
-id: 4
-title: "[Farmyard with Ducks]"
+id: 5
+title: "Untitled [Farmyard with Ducks]"
 image:
-    filename: 1877c-farmyard-with-ducks.jpg
+    filename: 1877c-untitled-farmyard-with-ducks.jpg
     caption: Public domain image from the Smithsonian Museum of American Art.
     missing_text: 
 year: "c. 1877"

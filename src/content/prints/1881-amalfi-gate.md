@@ -3,7 +3,7 @@ id: 10
 title: Amalfi [Gate]
 image:
     filename: 1881-amalfi-gate.jpg
-    caption: Public domain image from The National Gallery of Art
+    caption: Public domain image from The National Gallery of Art.
     missing_text: 
 year: "c. 1881"
 size:

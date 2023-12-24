@@ -7,7 +7,7 @@ image:
     missing_text: No image of this etching has been located.
 year: "1877"
 size:
-    dimensions: 8.9 x 11.4
+    dimensions: 8.9 x 11.4 cm
     source: Koehler 1880
     source_url: https://www.jstor.org/stable/20559686
 signed: 
@@ -21,4 +21,3 @@ Little is known about this small etching, which was likely one of Colman’s fir
 Mt. Desert itself is an island northeast of Colman’s hometown of Portland, Maine. A plein air watercolor of Mt. Desert, also dated 1877, was sold [at Grogan and Company in 2019](https://www.groganco.com/auction-lot/samuel-colman-american-1832-1920-mt.-desert_1DE4D1C871) and is likely from the same visit to the island.
 
 TK need to review this thesis
-TK dimensions need a unit
