@@ -2,7 +2,7 @@
 id: 0
 title: TK
 image:
-    path: 
+    filename: 
     caption: 
     missing_text: 
 year: ""

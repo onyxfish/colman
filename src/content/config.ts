@@ -8,7 +8,7 @@ const printsCollection = defineCollection({
     id: z.number(),
     title: z.string(),
     image: z.object({
-      path: z.string().nullable(),
+      filename: z.string().nullable(),
       caption: z.string().nullable(),
       missing_text: z.string().nullable()
     }),

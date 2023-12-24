@@ -2,7 +2,7 @@
 id: 8
 title: Durham, England (The Splendor Falls on Castle Walls)
 image:
-    path: /prints/1880-durham-england.webp
+    filename: 1880-durham-england.webp
     caption: Photo from the author's collection.
     missing_text: 
 year: "1880"

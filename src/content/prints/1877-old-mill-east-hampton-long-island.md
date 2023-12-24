@@ -2,7 +2,7 @@
 id: 2
 title: Old Mill, East Hampton, Long Island
 image:
-    path: 
+    filename: 
     caption: 
     missing_text: No public domain image is available for this work. Please visit The Baltimore Museum of Art to view it.
 year: "1877"

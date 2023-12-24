@@ -2,7 +2,7 @@
 id: 6
 title: Pacific Coast, California
 image:
-    path: /prints/1878-pacific-coast-california.jpg
+    filename: 1878-pacific-coast-california.jpg
     caption: Public domain photo from The National Gallery of Art.
     missing_text: 
 year: "1878 - 1879"

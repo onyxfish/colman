@@ -2,7 +2,7 @@
 id: 1
 title: Mount Desert, Maine
 image:
-    path: 
+    filename: 
     caption: 
     missing_text: No image of this etching has been located.
 year: "1877"

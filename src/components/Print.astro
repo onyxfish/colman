@@ -14,9 +14,9 @@ const { Content } = await print.render();
 <div id={print.slug}>
     <h2 class="text-xl block"><span class="font-bold">{print.data.id}.</span> <span class="italic">{print.data.title}</span></h2>
 
-    {print.data.image.path ? (
+    {print.data.image.filename ? (
         <figure class="block pt-2 pb-2">
-            <img src={print.data.image.path} />
+            <img src=`/prints/${print.data.image.filename}` />
             <figcaption class="text-xs text-gray-700 text-center italic pt-1">{print.data.image.caption}</figcaption>
         </figure>
     ) : (

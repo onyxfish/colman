@@ -2,7 +2,7 @@
 id: 9
 title: "[Wooded Landscape]"
 image:
-    path: /prints/1880c-wooded-landscape.jpg
+    filename: 1880c-wooded-landscape.jpg
     caption: Public domain photo from The National Gallery of Art.
     missing_text: 
 year: "c. 1880"
