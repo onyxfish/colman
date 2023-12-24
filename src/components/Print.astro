@@ -24,13 +24,19 @@ const { Content } = await print.render();
     )}
 
     <div><span class="font-bold">Year:</span> {print.data.year}</div>
-    <div>
-        <span class="font-bold">Size:</span> {print.data.size.dimensions}
-        {print.data.size.source !== null && (
-            <span>(<a href="{print.data.size.source_url}">{print.data.size.source}</a>)</span>)
-        }
-    </div>
-    <div><span class="font-bold">Signed:</span> {print.data.signed}</div>
+
+    {print.data.size.dimensions && (
+        <div>
+            <span class="font-bold">Size:</span> {print.data.size.dimensions}
+            {print.data.size.source !== null && (
+                <span>(<a href="{print.data.size.source_url}">{print.data.size.source}</a>)</span>)
+            }
+        </div>
+    )}
+
+    {print.data.signed && (
+        <div><span class="font-bold">Signed:</span> {print.data.signed}</div>
+    )}
 
     {print.data.publications.length > 0 &&
         <div class="font-bold pt-2">Published in:</div>
@@ -40,6 +46,13 @@ const { Content } = await print.render();
             ))}
         </ul>
     }
+
+    <div class="font-bold pt-2">Museum collections:</div>
+    <ul class="list-disc pl-8 text-sm">
+    {print.data.museums.map(m => (
+        <li><a href={m.url}>{m.name}</a></li>
+    ))}
+    </ul>
 
     <div class="font-serif pt-2">
         <Content /> 
