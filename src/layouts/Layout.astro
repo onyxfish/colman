@@ -17,6 +17,31 @@ const { title } = Astro.props;
 		<title>{title}</title>
 	</head>
 	<body>
-		<slot />
+		<main class="w-5/6">
+			<h1 class="text-4xl pt-4 pb-4 text-center">Samuel Colman: A Catalogue Raisonné of Etchings</h1>
+
+			<ul class="grid grid-cols-2 gap-4 text-center pb-6 pl-8 pr-8 md:grid-cols-4">
+				<li><a href="/">The Catalogue</a></li>
+				<li><a href="/colman.html">About Samuel Colman</a></li>
+				<li><a href="/faq.html">FAQ</a></li>
+				<li><a href="/contact.html">Contact the author</a></li>
+			</ul>
+		
+			<slot />
+		</main>
 	</body>
 </html>
+
+<style is:global>
+    a {
+        color: red;
+    }
+
+    a:visited {
+        color: blue;
+    }
+
+    p {
+        padding-bottom: 0.5rem;
+    }
+</style>

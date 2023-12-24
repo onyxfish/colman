@@ -8,13 +8,9 @@ const prints = await getCollection('prints');
 ---
 
 <Layout title="Samuel Colman: A Catalogue Raisonné of Etchings">
-	<main class="w-5/6">
-		<h1 class="text-4xl pb-4 text-center">Samuel Colman: A Catalogue Raisonné of Etchings</h1>
-
-		<div class="grid md:grid-cols-2 gap-8">
-			{prints.map(p => (
-				<Print slug={p.slug} />
-			))}
-		</div>
-	</main>
+	<div class="grid md:grid-cols-2 gap-8">
+		{prints.map(p => (
+			<Print slug={p.slug} />
+		))}
+	</div>
 </Layout>
