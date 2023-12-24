@@ -7,32 +7,14 @@ import Print from '../components/Print.astro';
 const prints = await getCollection('prints');
 ---
 
-<Layout title="A Catalogue Raisonne of Etchings by Samuel Colman">
-	<main>
-		<h1>A Catalogue Raisonne of Etchings by Samuel Colman</h1>
-		<ul>
+<Layout title="Samuel Colman: A Catalogue Raisonné of Etchings">
+	<main class="w-5/6">
+		<h1 class="text-4xl pb-4 text-center">Samuel Colman: A Catalogue Raisonné of Etchings</h1>
+
+		<div class="grid md:grid-cols-2 gap-8">
 			{prints.map(p => (
 				<Print slug={p.slug} />
 			))}
-		</ul>
+		</div>
 	</main>
 </Layout>
-
-<style>
-	main {
-		margin: auto;
-		padding: 1rem;
-		width: 800px;
-		max-width: calc(100% - 2rem);
-		color: white;
-		font-size: 20px;
-		line-height: 1.6;
-	}
-	h1 {
-		font-size: 4rem;
-		font-weight: 700;
-		line-height: 1;
-		text-align: center;
-		margin-bottom: 1em;
-	}
-</style>

@@ -1,4 +1,5 @@
 ---
+id: 9
 title: "[Wooded Landscape]"
 image:
     path: /prints/1880c-wooded-landscape.jpg

@@ -1,4 +1,5 @@
 ---
+id: 6
 title: Pacific Coast, California
 image:
     path: /prints/1878-pacific-coast-california.jpg

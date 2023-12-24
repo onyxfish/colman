@@ -1,4 +1,5 @@
 ---
+id: 2
 title: Old Mill, East Hampton, Long Island
 image:
     path: 

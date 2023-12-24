@@ -5,6 +5,7 @@ import { z, defineCollection } from 'astro:content';
 const printsCollection = defineCollection({
   type: 'content', // v2.5.0 and later
   schema: z.object({
+    id: z.number(),
     title: z.string(),
     image: z.object({
       path: z.string().nullable(),

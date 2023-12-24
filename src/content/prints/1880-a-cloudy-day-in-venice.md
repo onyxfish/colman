@@ -1,4 +1,5 @@
 ---
+id: 7
 title: A Cloudy Day in Venice
 image:
     path: /prints/1880-a-cloudy-day-in-venice.jpg
@@ -11,7 +12,7 @@ size:
     source_url: 
 signed: In the plate, lower right, interlaced initials S.C. Rarely hand-signed.
 publications:
-    - "Original Etchings by American Artists. New York: Cassell & Company"
+    - "Original Etchings by American Artists. New York: Cassell & Company, 1883"
     - "Gems of American Etchers. New York: Cassell & Company, 1885"
 drawings: []
 museums: 

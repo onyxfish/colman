@@ -10,16 +10,37 @@ if (!print) {
 
 const { Content } = await print.render();
 ---
-<div id={print.slug} class="print">
-    <h2>{print.data.title}</h2>
+<div id={print.slug}>
+    <h2 class="text-xl block"><span class="font-bold">{print.data.id}.</span> <span class="italic">{print.data.title}</span></h2>
 
-    {print.data.image.path && (<figure><img src={print.data.image.path} width="800px" /><figcaption>{print.data.image.caption}</figcaption></figure>)}
+    {print.data.image.path ? (
+        <figure class="block pt-2 pb-2">
+            <img src={print.data.image.path} />
+            <figcaption class="text-xs text-gray-700 text-center italic pt-1">{print.data.image.caption}</figcaption>
+        </figure>
+    ) : (
+        <div class="p-4 text-sm text-gray-700 text-center italic">{print.data.image.missing_text}</div>
+    )}
 
-    <div>{print.data.year}</div>
-    <div>{print.data.size.dimensions} {print.data.size.source !== null && (<a href="{print.data.size.source_url}">{print.data.size.source}</a>)}</div>
-    <div>{print.data.signed}</div>
+    <div><span class="font-bold">Year:</span> {print.data.year}</div>
+    <div>
+        <span class="font-bold">Size:</span> {print.data.size.dimensions}
+        {print.data.size.source !== null && (
+            <span>(<a href="{print.data.size.source_url}">{print.data.size.source}</a>)</span>)
+        }
+    </div>
+    <div><span class="font-bold">Signed:</span> {print.data.signed}</div>
 
-    <div class="content">
+    {print.data.publications.length > 0 &&
+        <div class="font-bold pt-2">Published in:</div>
+        <ul class="list-disc pl-8 text-sm">
+            {print.data.publications.map(p => (
+                <li>{p}</li>
+            ))}
+        </ul>
+    }
+
+    <div class="font-serif pt-2">
         <Content /> 
     </div>
 </div>
