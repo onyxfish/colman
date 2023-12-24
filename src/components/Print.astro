@@ -1,4 +1,5 @@
 ---
+import { marked } from 'marked'
 import { getEntryBySlug } from 'astro:content';
 const { slug } = Astro.props;
 
@@ -35,7 +36,7 @@ const { Content } = await print.render();
         <div class="font-bold pt-2">Published in:</div>
         <ul class="list-disc pl-8 text-sm">
             {print.data.publications.map(p => (
-                <li>{p}</li>
+                <li set:html={marked(p)}></li>
             ))}
         </ul>
     }
@@ -44,3 +45,17 @@ const { Content } = await print.render();
         <Content /> 
     </div>
 </div>
+
+<style is:global>
+    a {
+        color: red;
+    }
+
+    a:visited {
+        color: blue;
+    }
+
+    p {
+        padding-bottom: 0.5rem;
+    }
+</style>

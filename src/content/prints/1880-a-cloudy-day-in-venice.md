@@ -12,8 +12,8 @@ size:
     source_url: 
 signed: In the plate, lower right, interlaced initials S.C. Rarely hand-signed.
 publications:
-    - "Original Etchings by American Artists. New York: Cassell & Company, 1883"
-    - "Gems of American Etchers. New York: Cassell & Company, 1885"
+    - "_Original Etchings by American Artists_. New York: Cassell & Company, 1883"
+    - "_Gems of American Etchers_. New York: Cassell & Company, 1885"
 drawings: []
 museums: 
     -   name: Cleveland
