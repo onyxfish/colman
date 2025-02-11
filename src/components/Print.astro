@@ -11,19 +11,22 @@ if (!print) {
 
 const { Content } = await print.render();
 ---
-<div id={print.slug}>
-    <h2 class="text-xl block"><span class="font-bold">{print.data.id}.</span> <span class="italic">{print.data.title}</span></h2>
+<div id={print.slug} class="pt-16">
+    <h2 class="text-3xl block">
+        <span class="">{print.data.id}.</span> 
+        <span class="italic font-bold">{print.data.title}</span>
+    </h2>
 
     {print.data.image.filename ? (
-        <figure class="block pt-2 pb-2">
+        <figure class="block pt-4 pb-2">
             <img src=`/prints/${print.data.image.filename}` />
-            <figcaption class="text-xs text-gray-700 text-center italic pt-1">{print.data.image.caption}</figcaption>
+            <figcaption class="text-s text-gray-700 text-center italic pt-1">{print.data.image.caption}</figcaption>
         </figure>
     ) : (
-        <div class="p-4 text-sm text-gray-700 text-center italic">{print.data.image.missing_text}</div>
+        <div class="p-16 my-4 bg-gray-100 text-center italic">{print.data.image.missing_text}</div>
     )}
 
-    <div><span class="font-bold">Year:</span> {print.data.year}</div>
+    <div class="pt-4"><span class="font-bold">Year:</span> {print.data.year}</div>
 
     {print.data.size.dimensions && (
         <div>
@@ -56,7 +59,7 @@ const { Content } = await print.render();
         </ul>
     }
 
-    <div class="font-serif pt-2">
+    <div class="font-serif pt-8">
         <Content /> 
     </div>
 </div>
