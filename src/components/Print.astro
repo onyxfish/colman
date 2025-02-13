@@ -23,7 +23,7 @@ const { Content } = await print.render();
             <figcaption class="text-sm text-center italic pt-1">{print.data.image.caption}</figcaption>
         </figure>
     ) : (
-        <div class="missing p-16 my-4 bg-gray-100 text-center italic">{print.data.image.missing_text}</div>
+        <div class="missing p-16 my-4 bg-gray-100 text-center italic" set:html={marked.parseInline(print.data.image.missing_text || '')}></div>
     )}
 
     <div class="pt-4"><span class="font-bold">Created:</span> {print.data.year}</div>

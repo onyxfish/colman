@@ -3,7 +3,7 @@ id: 9
 title: "Untitled [Wooded Landscape]"
 image:
     filename: 1880c-untitled-wooded-landscape.jpg
-    caption: Public domain photo from The National Gallery of Art.
+    caption: Public domain image from The National Gallery of Art.
     missing_text: 
 year: "c. 1880"
 size:

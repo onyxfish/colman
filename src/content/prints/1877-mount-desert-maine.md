@@ -4,7 +4,7 @@ title: Mount Desert, Maine
 image:
     filename: 
     caption: 
-    missing_text: No image of this etching has been located.
+    missing_text: No image located.
 year: "1877"
 size:
     dimensions: 8.9 x 11.4 cm

@@ -4,7 +4,7 @@ title: The Lake Side
 image:
     filename: 
     caption: 
-    missing_text: No public domain image is available for this work. Please visit The Syracuse University Art Museum to view it.
+    missing_text: View image at [The Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41670/the-lakeside).
 year: "c. 1877"
 size:
     dimensions: 10.1 x 14.9 cm

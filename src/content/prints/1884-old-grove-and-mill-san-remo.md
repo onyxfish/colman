@@ -4,7 +4,7 @@ title: Olive Grove & Mill, San Remo
 image:
     filename: 
     caption: 
-    missing_text: TK no public domain image
+    missing_text: View image at [The Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41668/old-mill-in-the-riviera-valley)
 year: "1884 (per Syracuse)"
 size:
     dimensions: 12.6 x 20.1 cm

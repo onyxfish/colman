@@ -4,7 +4,7 @@ title: Untitled [Swamp Landscape]
 image:
     filename: 
     caption: 
-    missing_text: TK no public domain image
+    missing_text: View image at [The Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/42453/untitled-swamp-landscape)
 year: "c. 1885 (per Syracuse)"
 size:
     dimensions: 12.4 x 17.5 cm

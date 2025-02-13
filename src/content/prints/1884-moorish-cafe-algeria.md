@@ -4,7 +4,7 @@ title: Moorish Cafe, Algeria
 image:
     filename: 
     caption: 
-    missing_text: TK no public domain image
+    missing_text: View image at [The Museum of Fine Arts Boston](https://collections.mfa.org/objects/340882/moorish-cafe-algeria?ctx=372f9347-45ea-4bc7-ae34-e5f2207ee1cf)
 year: "1884"
 size:
     dimensions: 

@@ -4,7 +4,7 @@ title: Japanese Inro
 image:
     filename: 
     caption: 
-    missing_text: TK no public domain image
+    missing_text: View image at [The Syracuse University Museum of Art](https://onlinecollections.syr.edu/objects/41647/japanese-inro)
 year: "1883 (per Syracuse)"
 size:
     dimensions: 7.1 x 5.7 cm

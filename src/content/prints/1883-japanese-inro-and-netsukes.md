@@ -4,7 +4,7 @@ title: TK
 image:
     filename: 
     caption: 
-    missing_text: TK no public domain image
+    missing_text: View image at [The Syracuse University Museum of Art](https://onlinecollections.syr.edu/objects/42452/japanese-inro-and-netsukes)
 year: "1883 (per Syracuse)"
 size:
     dimensions: 

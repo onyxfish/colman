@@ -4,7 +4,7 @@ title: TK
 image:
     filename: 
     caption: 
-    missing_text: TK no image found
+    missing_text: No image located.
 year: "1883 (per MFAB)"
 size:
     dimensions: 

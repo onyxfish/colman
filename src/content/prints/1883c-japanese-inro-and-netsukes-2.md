@@ -4,7 +4,7 @@ title: Japanese Inro and Netsukes (No. 2)
 image:
     filename: 
     caption: 
-    missing_text: TK no public domain image
+    missing_text: View image at [The Syracuse University Museum of Art](https://collections.mfa.org/objects/101133/japanese-netsukes)
 year: "c. 1883"
 size:
     dimensions: 

@@ -3,7 +3,7 @@ id: 7
 title: A Cloudy Day in Venice
 image:
     filename: 1880-a-cloudy-day-in-venice.jpg
-    caption: Public domain photo from The Art Institute of Chicago
+    caption: Public domain image from The Art Institute of Chicago
     missing_text: 
 year: "1880"
 size:

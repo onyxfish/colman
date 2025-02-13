@@ -4,7 +4,7 @@ title: Farm-yard, East Hampton, Long Island
 image:
     filename: 
     caption: 
-    missing_text: No image of this etching has been located.
+    missing_text: No image located.
 year: "c. 1877"
 size:
     dimensions: 
