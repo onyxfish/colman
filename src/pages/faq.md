@@ -2,6 +2,8 @@
 layout: '../layouts/Layout.astro'
 title: 'FAQ'
 ---
-# FAQ
+## FAQ
+
+### How a
 
 This is my page, written in **Markdown.**
