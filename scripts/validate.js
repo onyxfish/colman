@@ -21,7 +21,7 @@ function run() {
         ids.push(data.id);
     });
 
-    for (let i = 1; i < ids.length + 1; i++) {
+    for (let i = 1; i < ids.length; i++) {
         if (!ids.includes(i)) {
             console.log(`Missing id: ${i}`);
         }
