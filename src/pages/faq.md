@@ -4,6 +4,6 @@ title: 'FAQ'
 ---
 ## FAQ
 
-### How a
+### Who made this?
 
-This is my page, written in **Markdown.**
+This catalogue is a project of <a href="mailto:chrisgroskopf@gmail.com">Christopher Groskopf</a>.
