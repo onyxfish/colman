@@ -5,6 +5,18 @@ interface Props {
 
 const { title } = Astro.props;
 const { pathname } = Astro.url;
+
+const menu = [{
+	pathname: "/",
+	title: "The Catalogue"
+}, {
+	pathname: "/colman/",
+	title: "Artist Biography"
+}, {
+	pathname: "/faq/",
+	title: "FAQ"
+}]
+
 ---
 
 <!doctype html>
@@ -31,9 +43,9 @@ const { pathname } = Astro.url;
 				</div>
 
 				<ul id="main-menu" class="grid grid-cols-3 text-center pt-4 justify-center items-center md:ml-18 md:mr-18 md:text-xl">
-					<li><a class={pathname === "/" ? "active" : ""} href="/">The Catalogue</a></li>
-					<li><a class={pathname === "/colman/" ? "active" : ""} href="/colman/">Artist Biography</a></li>
-					<li><a class={pathname === "/faq/" ? "active" : ""} href="/faq/">FAQ</a></li>
+					{
+						menu.map((item) => <li><a class={pathname === item.pathname ? "active" : ""} href={item.pathname}>{item.title}</a></li>)
+					}
 				</ul>
 			
 				<main>
