@@ -11,9 +11,10 @@ if (!print) {
 
 const { Content } = await print.render();
 ---
-<div id={print.slug} class="pb-16">
+<div id={print.data.id} class="print pb-16">
     <h2 class="text-3xl block">
-        <span class="">{print.data.id}.</span> 
+        <span class="anchor"><a href={"#" + print.data.id}>#</a></span>
+        <span>{print.data.id}.</span> 
         <span class="italic font-bold">{print.data.title}</span>
     </h2>
 
@@ -65,6 +66,19 @@ const { Content } = await print.render();
 </div>
 
 <style>
+    .print:not(:first-child) {
+		margin-top: 2rem;
+	}
+
+    .anchor {
+        margin-left: -1rem;
+        opacity: 50%;
+    }
+
+    .anchor:hover {
+        opacity: 100%;
+    }
+
     .missing {
         background-color: var(--missing);
     }
