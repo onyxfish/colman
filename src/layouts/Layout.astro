@@ -38,10 +38,6 @@ const menu = [{
 					<span class="text-4xl">A Catalogue of the Artist&rsquo;s Etchings</span>
 				</h1>
 
-				<div class="banner text-xl text-center py-8 font-bold">
-					This site is under construction.
-				</div>
-
 				<ul id="main-menu" class="grid grid-cols-3 text-center pt-4 justify-center items-center md:ml-18 md:mr-18 md:text-xl">
 					{
 						menu.map((item) => <li><a class={pathname === item.pathname ? "active" : ""} href={item.pathname}>{item.title}</a></li>)
@@ -70,8 +66,8 @@ const menu = [{
 	}
 
 	main {
-		padding-top: 20px;
-		padding-bottom: 40px;
+		padding-top: 3rem;
+		padding-bottom: 2rem;
 	}
 
 	h1, h2 {
@@ -80,13 +76,15 @@ const menu = [{
 
 	h2 {
 		font-size: 1.5rem;
-		margin-top: 2rem;
 	}
 
 	h3 {
 		font-size: 1.2rem;
-		margin-top: 1rem;
 		font-weight: bold					;
+	}
+
+	h3:not(:first-child) {
+		margin-top: 1rem;
 	}
 	
     a {
@@ -99,10 +97,15 @@ const menu = [{
 
 	#main-menu li a.active {
 		font-weight: bold;
+		text-decoration: underline;
 	}
 
     p {
 		@apply font-sans;
         padding-bottom: 0.5rem;
     }
+
+	.print:not(:first-child) {
+		margin-top: 2rem;
+	}
 </style>
