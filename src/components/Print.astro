@@ -11,7 +11,7 @@ if (!print) {
 
 const { Content } = await print.render();
 ---
-<div id={print.data.id.toString()} class="print pb-16">
+<div id={print.data.id.toString()} class="print">
     <h2 class="text-3xl block">
         <span class="anchor"><a href={"#" + print.data.id}>#</a></span>
         <span>{print.data.id}.</span> 
@@ -67,7 +67,7 @@ const { Content } = await print.render();
 
 <style>
     .print:not(:first-child) {
-		margin-top: 2rem;
+		margin-top: 4rem;
 	}
 
     .anchor {
