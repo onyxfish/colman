@@ -2,8 +2,6 @@
 layout: '../layouts/Layout.astro'
 title: 'FAQ'
 ---
-## FAQ
-
 ### Who made this?
 
 Hi, I'm Chris. I collect European and American works on paper from the 15th through 21st centuries, with a particular emphasis on the history of etching. My interest in Samuel Colman was sparked by the chance purchase of a small cache of the artist's drawings in 2021. I started creating this catalogue in the hazy days after the birth of my second child and have continued to work it off and on since then.

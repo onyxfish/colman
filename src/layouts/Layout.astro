@@ -3,7 +3,8 @@ interface Props {
 	title: string;
 }
 
-const title = Astro.props.title;
+const { title } = Astro.props;
+const { pathname } = Astro.url;
 ---
 
 <!doctype html>
@@ -29,10 +30,10 @@ const title = Astro.props.title;
 					This site is under construction.
 				</div>
 
-				<ul class="grid grid-cols-3 text-center pt-4 justify-center items-center md:ml-18 md:mr-18 md:text-xl">
-					<li><a href="/">The Catalogue</a></li>
-					<li><a href="/colman/">Artist Biography</a></li>
-					<li><a href="/faq/">FAQ</a></li>
+				<ul id="main-menu" class="grid grid-cols-3 text-center pt-4 justify-center items-center md:ml-18 md:mr-18 md:text-xl">
+					<li><a class={pathname === "/" ? "active" : ""} href="/">The Catalogue</a></li>
+					<li><a class={pathname === "/colman/" ? "active" : ""} href="/colman/">Artist Biography</a></li>
+					<li><a class={pathname === "/faq/" ? "active" : ""} href="/faq/">FAQ</a></li>
 				</ul>
 			
 				<main>
@@ -57,6 +58,7 @@ const title = Astro.props.title;
 	}
 
 	main {
+		padding-top: 20px;
 		padding-bottom: 40px;
 	}
 
@@ -81,6 +83,10 @@ const title = Astro.props.title;
 
 	ul li {
 		@apply font-sans;
+	}
+
+	#main-menu li a.active {
+		font-weight: bold;
 	}
 
     p {
