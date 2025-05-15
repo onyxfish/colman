@@ -1,10 +1,10 @@
 ---
 id: 13
-title: TK
+title: Coblentz
 image:
     filename: 
     caption: 
-    missing_text: No image located.
+    missing_text: No image available.
 year: "1883 (per MFAB)"
 size:
     dimensions: 

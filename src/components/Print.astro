@@ -20,7 +20,7 @@ const { Content } = await print.render();
 
     {print.data.image.filename ? (
         <figure class="block pt-4 pb-2">
-            <img src=`/prints/${print.data.image.filename}` />
+            <img src=`/prints/${print.data.image.filename}` class="max-h-[800px]" />
             <figcaption class="text-sm text-center italic pt-1">{print.data.image.caption}</figcaption>
         </figure>
     ) : (

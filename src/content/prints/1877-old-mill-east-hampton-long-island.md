@@ -4,7 +4,7 @@ title: Old Mill, East Hampton, Long Island
 image:
     filename: 
     caption: 
-    missing_text: No image located.
+    missing_text: No image available.
 year: "1877"
 size:
     dimensions: 

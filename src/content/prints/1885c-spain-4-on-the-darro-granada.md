@@ -2,9 +2,9 @@
 id: 37
 title: "On the Darro, Granada"
 image:
-    filename:
-    caption: 
-    missing_text: View image at [Google Books](https://www.google.com/books/edition/Spain_and_the_Spaniards/W98_AAAAYAAJ?hl=en&gbpv=1&pg=PA396-IA1&printsec=frontcover).
+    filename: 1885c-spain-4-on-the-darro-granada.jpg
+    caption: Free-for-educational-use image from The High Museum of Art.
+    missing_text: 
 year: "c. 1885"
 size:
     dimensions: 

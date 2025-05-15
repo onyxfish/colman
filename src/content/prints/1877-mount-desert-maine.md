@@ -4,7 +4,7 @@ title: Mount Desert, Maine
 image:
     filename: 
     caption: 
-    missing_text: No image located.
+    missing_text: No image available.
 year: "1877"
 size:
     dimensions: 8.9 x 11.4 cm

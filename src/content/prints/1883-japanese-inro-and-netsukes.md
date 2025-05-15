@@ -1,6 +1,6 @@
 ---
 id: 14
-title: TK
+title: Japanese Inro and Netsukes
 image:
     filename: 
     caption: 
