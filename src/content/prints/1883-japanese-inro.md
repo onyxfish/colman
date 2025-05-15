@@ -18,5 +18,6 @@ museums:
         url: https://collections.mfa.org/objects/101136/japanese-inro
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41647/japanese-inro
+complete: False
 ---
 See [Japanese Inro and Netsukes](#1883-japanese-inro-and-netsukes).

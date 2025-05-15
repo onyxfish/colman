@@ -21,6 +21,7 @@ museums:
         url: https://risdmuseum.org/art-design/collection/tower-de-montalban-amsterdam-19881134
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41651/tower-de-montalban-amsterdam
+complete: False
 ---
 This is the second of three etchings created by Colman for the “Zuyder Zee Edition” of Holland and Its People by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Holland_and_Its_People/OXE-AAAAYAAJ)) It appears opposite page 246.
 

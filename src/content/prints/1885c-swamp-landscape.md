@@ -16,5 +16,6 @@ drawings: []
 museums: 
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/42453/untitled-swamp-landscape
+complete: False
 ---
 This etching is known only through a single proof in the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/42453/untitled-swamp-landscape). That proof has Colman’s edits in brown ink, which may suggest that the print was never completed to his satisfaction.

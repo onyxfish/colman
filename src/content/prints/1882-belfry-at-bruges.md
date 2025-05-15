@@ -19,5 +19,6 @@ museums:
         url: https://risdmuseum.org/art-design/collection/belfry-bruges-20119635
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41671/the-belfry-at-bruges
+complete: False
 ---
 Tk

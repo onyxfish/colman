@@ -2,9 +2,9 @@
 id: 3
 title: Farm-yard, East Hampton, Long Island
 image:
-    filename: 
-    caption: 
-    missing_text: No image located.
+    filename: 1877c-farm-yard-east-hampton-long-island.jpg
+    caption: Free-for-educational-use image from The Museum of Fine Arts Boston.
+    missing_text:
 year: "c. 1877"
 size:
     dimensions: 
@@ -15,11 +15,8 @@ publications: []
 museums: 
     -   name: MFAB
         url: https://collections.mfa.org/objects/101012/barnyard-at-east-hampton-l-i
+complete: True
 ---
-TK
+It’s likely this is the etching described only as “Etched from Nature” in [the 1881 exhibition](https://www.google.com/books/edition/The_Art_Journal/gxQYV1SDwvMC?gbpv=1&bsq=colman) of the British Society of Painter Etchers. It was also exhibited at [the 1891 exhibition](https://www.google.com/books/edition/A_Publication_by_the_New_York_Etching_Cl/6glLAQAAMAAJ) of the New York Etching Club where it was similarly described as “etched from nature”. The Museum of Fine Arts at Boston holds the only copy known today, which they refer to as “Barn Yard at East Hampton, Long Island”. 
 
-“etched from nature”
-
-This etching was exhibited at the 1891 exhibition of the New York Etching Club where it was described as “etched from nature”. The Museum of Fine Arts at Boston holds the only copy known today. They refer to it as “Barn Yard at East Hampton, Long Island” but this are almost certainly the same image. It’s also very likely this is one of the two etchings referred to only as “Etched from Nature” and “Long Island Study” in the 1881 exhibition of the British Society of Painter Etchers.
-
-While there is no way to conclusively date this image, it seems likely all three of Colman’s etching of Long Island were made around a similar time.
+While there is no way to conclusively date this image, it seems very likely to have been made at the same time as [Old Mill, East Hampton, Long Island](#2) and [Untitled [Farmyard with Ducks]](#5), which appears to depict the same location.

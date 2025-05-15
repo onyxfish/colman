@@ -7,12 +7,13 @@ image:
     missing_text: 
 year: "1880"
 size:
-    dimensions: 7 3/16 x 3 1/2 in
+    dimensions: 7 3/16 x 3 1/2 in (per Clark Weinreb)
     source: 
     source_url: 
 signed: In the plate, lower right, interlaced initials S.C. Only known impression also hand-signed.
 publications: []
 drawings: []
 museums: []
+complete: False
 ---
-This etching is known from a single impression in the collection of Clark Weinreb. It echoes the subject of one of Colman's earliest etchings, [Old Mill at East Hampton, Long Island](#1877-old-mill-east-hampton-long-island), as well as [Old Mill at Wainscott, Long Island](#1884c-old-mill-wainscott-long-island).
+This etching is known from a single impression in the collection of Clark Weinreb. It echoes the subject of one of Colman's earliest etchings, [Old Mill at East Hampton, Long Island](#2), as well as [Old Mill at Wainscott, Long Island](#19).

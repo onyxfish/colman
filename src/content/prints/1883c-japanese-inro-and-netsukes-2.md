@@ -16,5 +16,6 @@ drawings: []
 museums: 
     -   name: MFAB (unconfirmed)
         url: https://collections.mfa.org/objects/101133/japanese-netsukes
+complete: False
 ---
 See [Japanese Inro and Netsukes](#1883-japanese-inro-and-netsukes).

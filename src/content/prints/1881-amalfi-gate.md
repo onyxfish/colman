@@ -19,6 +19,7 @@ museums:
         url: https://www.nga.gov/collection/art-object-page.182500.html
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41652/amalfi
+complete: False
 ---
 TK
 

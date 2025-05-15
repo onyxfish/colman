@@ -18,6 +18,7 @@ museums:
         url: https://www.nga.gov/collection/art-object-page.148733.html
     -   name: NGA
         url: https://www.nga.gov/collection/art-object-page.148734.html
+complete: False
 ---
 TK
 

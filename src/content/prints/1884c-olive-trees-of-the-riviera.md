@@ -28,5 +28,6 @@ museums:
         url: https://onlinecollections.syr.edu/objects/42450/the-olive-trees-on-the-riviera-first-state
     -   name: Syracuse (second state)
         url: https://onlinecollections.syr.edu/objects/42451/the-olive-trees-on-the-riviera
+complete: False
 ---
 TK

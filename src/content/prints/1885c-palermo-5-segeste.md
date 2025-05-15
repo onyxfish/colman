@@ -15,5 +15,6 @@ publications:
     -   "Field, Alice Durand. _Palermo: A Christmas Story_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums: []
+complete: False
 ---
 One of five etchings published in Alice Durand Field’s _Palermo: A Christmas Story_.

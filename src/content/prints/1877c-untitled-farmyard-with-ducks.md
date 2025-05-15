@@ -15,6 +15,7 @@ publications: []
 museums: 
     -   name: Smithsonian
         url: https://americanart.si.edu/artwork/untitled-5184
+complete: False
 ---
 Though known through a single, untitled impression held at the Smithsonian Musuem of American Art, it’s very likely this etching of ducks in a farm yard is the third of three etchings of Long Island that Colman exhibited together in the 1881 exhibition of the British Society of Painter Etchers — most likely the one referred to as “Long Island Study”.
 

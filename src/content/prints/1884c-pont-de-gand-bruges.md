@@ -21,5 +21,6 @@ museums:
         url: https://collections.mfa.org/objects/101105/port-de-gand-bruges
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41666/the-pont-de-gand-bruges
+complete: False
 ---
 TK publication per Syracuse

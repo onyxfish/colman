@@ -16,5 +16,6 @@ drawings: []
 museums: 
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41669/untitled-landscape-with-split-log-fence-two-large-trees-f
+complete: False
 ---
 This etching is known only through a single proof in the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/42453/untitled-swamp-landscape).

@@ -23,7 +23,8 @@ const printsCollection = defineCollection({
     museums: z.object({
       name: z.string(),
       url: z.string().url()
-    }).array()
+    }).array(),
+    complete: z.boolean().nullable()
   }),
 });
 

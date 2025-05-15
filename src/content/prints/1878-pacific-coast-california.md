@@ -18,6 +18,7 @@ drawings:
 museums: 
     -   name: NGA
         url: https://www.nga.gov/collection/art-object-page.148735.html
+complete: False
 ---
 Colman likely drew this scene during his first trip to California in 1870 and etched it later in the decade. Of his early etchings, it is one of the most evocative and a significant, early example of his sinuous style of drawing landscapes.
 

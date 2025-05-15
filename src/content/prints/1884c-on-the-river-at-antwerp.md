@@ -27,5 +27,6 @@ museums:
         url: https://digital.lib.uiowa.edu/islandora/object/ui%3Astanley_2006.325b
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41629/on-the-river-at-antwerp
+complete: False
 ---
 TK

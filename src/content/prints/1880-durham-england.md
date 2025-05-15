@@ -16,6 +16,7 @@ drawings: []
 museums: 
     -   name: NGA
         url: https://www.nga.gov/collection/art-object-page.182388.html
+complete: False
 ---
 This quaint view of Durham Castle is probably Colman’s most widely circulated image. It was published as an original etching in at least three different books, under two different titles.
 

@@ -18,6 +18,7 @@ museums:
         url: https://collections.mfa.org/objects/101126/japanese-inro-and-netsukes
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/42452/japanese-inro-and-netsukes
+complete: False
 ---
 TK Colman the collector. Japonisme
 

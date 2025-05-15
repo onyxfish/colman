@@ -14,8 +14,12 @@ function run() {
         const fileContents = fs.readFileSync(filePath, 'utf8');
         const data = matter(fileContents)['data'];
 
+        if (data.complete === false) {
+            console.log(`Incomplete print: #${data.id} ${filename}`)
+        }
+
         if (ids.includes(data.id)) {
-            console.log(`Duplicate id: ${data.id} in ${filename}`);
+            console.log(`Duplicate id: #${data.id} in ${filename}`);
         }
 
         ids.push(data.id);
@@ -27,7 +31,7 @@ function run() {
         }
     }
 
-    console.log(`Next id: ${Math.max(...ids) + 1}`)
+    console.log(`Next id: #${Math.max(...ids) + 1}`)
 }
 
 run();

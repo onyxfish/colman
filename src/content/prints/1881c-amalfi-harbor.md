@@ -17,6 +17,7 @@ drawings: []
 museums: 
     -   name: TK
         url: http://TK.com
+complete: False
 ---
 TK do I have this right?
 

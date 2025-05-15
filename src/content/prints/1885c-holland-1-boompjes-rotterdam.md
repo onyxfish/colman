@@ -21,5 +21,6 @@ museums:
         url: https://risdmuseum.org/art-design/collection/boompjes-rotterdam-19881133
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/42454/the-boompjes-rotterdam
+complete: False
 ---
 This is the first of three etchings created by Colman for the “Zuyder Zee Edition” of Holland and Its People by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Holland_and_Its_People/OXE-AAAAYAAJ)) It appears opposite page 48.

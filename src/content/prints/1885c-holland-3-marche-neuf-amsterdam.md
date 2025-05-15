@@ -17,6 +17,7 @@ drawings: []
 museums: 
     -   name: Cleveland
         url: https://www.clevelandart.org/art/1941.128
+complete: False
 ---
 This is the third of three etchings created by Colman for the “Zuyder Zee Edition” of Holland and Its People by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Holland_and_Its_People/OXE-AAAAYAAJ)) It appears opposite page 250.
 

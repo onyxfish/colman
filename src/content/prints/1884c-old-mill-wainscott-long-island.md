@@ -21,6 +21,7 @@ museums:
         url: https://collections.mfa.org/objects/101124/no-1-old-mill-wainscott-li
     -   name: Princeton
         url: https://artmuseum.princeton.edu/collections/objects/3086
+complete: False
 ---
 TK
 

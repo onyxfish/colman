@@ -18,6 +18,7 @@ drawings:
 museums: 
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41670/the-lakeside
+complete: False
 ---
 TK - no public domain image
 

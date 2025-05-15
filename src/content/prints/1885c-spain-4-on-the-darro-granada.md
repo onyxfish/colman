@@ -21,6 +21,7 @@ museums:
         url: https://high.org/collection/on-the-darro-granada/
     -   name: RISD
         url: https://risdmuseum.org/art-design/collection/darro-grenada-20119630
+complete: False
 ---
 This is the fourth of five etchings created by Colman for the “Guadalquivir Edition” of Spain and the Spaniards by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Spain_and_the_Spaniards/W98_AAAAYAAJ)) This etching was bound in as page 396. A a limited number of copies also included a second copy on satin.
 
