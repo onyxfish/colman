@@ -33,7 +33,7 @@ const { Content } = await print.render();
         <div>
             <span class="font-bold">Image size:</span> {print.data.size.dimensions}
             {print.data.size.source !== null && (
-                <span>(<a href="{print.data.size.source_url}">{print.data.size.source}</a>)</span>)
+                <span>(<a href={print.data.size.source_url}>{print.data.size.source}</a>)</span>)
             }
         </div>
     )}
