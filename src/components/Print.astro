@@ -11,7 +11,7 @@ if (!print) {
 
 const { Content } = await print.render();
 ---
-<div id={print.data.id.toString()} class="print">
+<div id={print.data.id.toString()} class="print" data-id={print.data.id.toString()} data-slug={slug}>
     <h2 class="text-3xl block">
         <span class="anchor"><a href={"#" + print.data.id}>#</a></span>
         <span>{print.data.id}.</span> 

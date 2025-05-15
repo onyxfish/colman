@@ -6,27 +6,58 @@ interface Props {
 const { title } = Astro.props;
 const { pathname } = Astro.url;
 
-const menu = [{
-	pathname: "/",
-	title: "Catalogue"
-}, {
-	pathname: "/colman/",
-	title: "Artist Biography"
-}, {
-	pathname: "/faq/",
-	title: "FAQ"
-}]
-
+const menu = [
+	{
+		pathname: "/",
+		title: "Catalogue",
+	},
+	{
+		pathname: "/colman/",
+		title: "Artist Biography",
+	},
+	{
+		pathname: "/faq/",
+		title: "FAQ",
+	},
+];
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
+		<!-- Google tag (gtag.js) -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=G-VZZYJ45H85"
+		></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag("js", new Date());
+
+			gtag("consent", "default", {
+				ad_storage: "denied",
+				ad_user_data: "denied",
+				ad_personalization: "denied",
+				analytics_storage: "denied",
+			});
+
+			gtag("config", "G-VZZYJ45H85");
+		</script>
+
 		<meta charset="UTF-8" />
-		<meta name="description" content="A complete catalogue of every known etching by 19th century American artist Samuel Colman." />
+		<meta
+			name="description"
+			content="A complete catalogue of every known etching by 19th century American artist Samuel Colman."
+		/>
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" href="/favicon.ico" />
-		<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Fira+Sans" rel="stylesheet">	
+		<link
+			href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Fira+Sans"
+			rel="stylesheet"
+		/>
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
@@ -35,21 +66,41 @@ const menu = [{
 			<div class="w-5/6 lg:w-3/5">
 				<h1 class="text-5xl text-center pt-16">
 					<span class="font-bold">Samuel Colman:</span><br />
-					<span class="text-4xl">A Catalogue of the Artist&rsquo;s Etchings</span>
+					<span class="text-4xl"
+						>A Catalogue of the Artist&rsquo;s Etchings</span
+					>
 				</h1>
 
-				<ul id="main-menu" class="grid grid-cols-3 text-center pt-8 pb-12 justify-center items-center md:ml-18 md:mr-18 md:text-xl">
+				<ul
+					id="main-menu"
+					class="grid grid-cols-3 text-center pt-8 pb-12 justify-center items-center md:ml-18 md:mr-18 md:text-xl"
+				>
 					{
-						menu.map((item) => <li><a class={pathname === item.pathname ? "active" : ""} href={item.pathname}>{item.title}</a></li>)
+						menu.map((item) => (
+							<li>
+								<a
+									class={
+										pathname === item.pathname
+											? "active"
+											: ""
+									}
+									href={item.pathname}
+								>
+									{item.title}
+								</a>
+							</li>
+						))
 					}
 				</ul>
-			
+
 				<main>
 					<slot />
 				</main>
 
 				<div id="footer" class="text-sm text-center pt-8 pb-8">
-					Made with joy by <a href="mailto:chrisgroskopf@gmail.com">Christopher Groskopf</a>.
+					Made with joy by <a href="mailto:chrisgroskopf@gmail.com"
+						>Christopher Groskopf</a
+					>.
 				</div>
 			</div>
 		</div>
@@ -69,7 +120,8 @@ const menu = [{
 		color: var(--text);
 	}
 
-	h1, h2 {
+	h1,
+	h2 {
 		@apply font-serif;
 	}
 
@@ -79,16 +131,16 @@ const menu = [{
 
 	h3 {
 		font-size: 1.2rem;
-		font-weight: bold					;
+		font-weight: bold;
 	}
 
 	h3:not(:first-child) {
 		margin-top: 1rem;
 	}
-	
-    a {
-        color: var(--links);
-    }
+
+	a {
+		color: var(--links);
+	}
 
 	ul li {
 		@apply font-sans;
@@ -99,8 +151,8 @@ const menu = [{
 		text-decoration: underline;
 	}
 
-    p {
+	p {
 		@apply font-sans;
-        padding-bottom: 0.5rem;
-    }
+		padding-bottom: 0.5rem;
+	}
 </style>
