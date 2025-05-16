@@ -10,7 +10,7 @@ size:
     dimensions: 27.3 x 37.5 cm
     source: Clark Art Institute
     source_url: https://www.clarkart.edu/ArtPiece/Detail/Cypress-Trees-of-Point-Lobos,-California
-signed: 
+signed: In the plate, lower left, "Saml Colman"
 publications: []
 drawings: []
 museums: 
