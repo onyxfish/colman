@@ -22,3 +22,9 @@ const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/prints/
 ) : (
     <div class="missing p-16 my-4 bg-gray-100 text-center italic" set:html={marked.parseInline(missing_text || '')}></div>
 )}
+
+<style>
+    .missing {
+        background-color: var(--missing);
+    }
+</style>
