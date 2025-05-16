@@ -1,6 +1,8 @@
 ---
 import { marked } from 'marked'
 import { getEntryBySlug } from 'astro:content';
+import PrintImage from '../components/PrintImage.astro';
+
 const { slug } = Astro.props;
 
 const print = await getEntryBySlug('prints', slug);
@@ -18,14 +20,11 @@ const { Content } = await print.render();
         <span class="italic font-bold">{print.data.title}</span>
     </h2>
 
-    {print.data.image.filename ? (
-        <figure class="block pt-4 pb-2">
-            <img src=`/prints/${print.data.image.filename}` class="max-h-[800px]" />
-            <figcaption class="text-sm text-center italic pt-1">{print.data.image.caption}</figcaption>
-        </figure>
-    ) : (
-        <div class="missing p-16 my-4 bg-gray-100 text-center italic" set:html={marked.parseInline(print.data.image.missing_text || '')}></div>
-    )}
+    <PrintImage
+        filename={print.data.image.filename},
+        caption={print.data.image.caption},
+        missing_text={print.data.image.missing_text}
+        />
 
     <div class="pt-4"><span class="font-bold">Created:</span> {print.data.year}</div>
 
