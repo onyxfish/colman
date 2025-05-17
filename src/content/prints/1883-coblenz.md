@@ -1,6 +1,6 @@
 ---
 id: 13
-title: Coblentz
+title: Coblenz
 image:
     filename: 
     caption: 
@@ -14,9 +14,9 @@ signed:
 publications: []
 drawings: []
 museums: 
-    -   name: MFAB
+    -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/objects/101113/coblentz
-    -   name: MFAB
+    -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/objects/100992/coblentz
 complete: False
 ---

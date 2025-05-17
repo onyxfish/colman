@@ -14,7 +14,7 @@ signed: In the plate, lower left, interlaced initials S.C. TK hand-signed
 publications: []
 drawings: []
 museums: 
-    -   name: NGA
+    -   name: National Gallery of Art
         url: https://www.nga.gov/collection/art-object-page.182388.html
 complete: False
 ---
