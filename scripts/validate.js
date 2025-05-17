@@ -15,11 +15,15 @@ function run() {
         const data = matter(fileContents)['data'];
 
         if (data.complete === false) {
-            console.log(`Incomplete print: #${data.id} ${filename}`)
+            console.log(`Incomplete: #${data.id} ${filename}`)
         }
 
         if (ids.includes(data.id)) {
             console.log(`Duplicate id: #${data.id} in ${filename}`);
+        }
+
+        if (fileContents.toLowerCase().includes("tk")) {
+            console.log(`TK: #${data.id} in ${filename}`)
         }
 
         ids.push(data.id);
