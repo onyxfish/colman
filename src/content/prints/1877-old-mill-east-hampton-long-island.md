@@ -15,7 +15,7 @@ publications: []
 museums: 
     -   name: Baltimore Museum of Art
         url: https://collection.artbma.org/objects/71053/an-old-mill-at-east-hampton-li
-    -   name: MFAB
+    -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/objects/101098/old-mill-east-hampton-li
 complete: True
 ---
