@@ -10,7 +10,7 @@ size:
     dimensions: 11.3 x 19.7 cm
     source: National Gallery of Art
     source_url: https://www.nga.gov/artworks/182388-durham-england
-signed: In the plate, lower left, interlaced initials S.C. TK hand-signed
+signed: In the plate, lower left, interlaced initials S.C. Rarely hand-signed.
 publications:
     - "The American Art Review, vol. 1, no. 9 (1880)."
     - "Nature and Art: Poems and Pictures from the Best Authors and Artists. Boston: Estes and Lauriat, 1882."
@@ -39,8 +39,6 @@ museums:
         url: https://digital.lib.uiowa.edu/node/63608
     -   name: Yale University Art Gallery
         url: https://artgallery.yale.edu/collections/objects/31317
-complete: False
+complete: True
 ---
-This picturesque view of [Durham Castle](https://en.wikipedia.org/wiki/Durham_Castle) is probably Colman’s most widely circulated image. It was published as an original etching in at least three different books, under two different titles. 
-
-TK quote about this image
+This picturesque view of [Durham Castle](https://en.wikipedia.org/wiki/Durham_Castle) was Colman's response to commmission from Sylvester Rosa Koehler to create an etching for _American Art Review_. Koehler was a major booster of Colman's work and rhapsodized his etchings in the accompanying article as "among the most interesting of the works so far produced by the etchers of America." This etching was subsequently republished in two other volumes, making it by far Colman's most widely circulated image.
