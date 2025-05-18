@@ -5,6 +5,7 @@ import path from 'path';
 import matter from 'gray-matter';
 
 const printsDir = 'src/content/prints';
+const imagesDir = 'src/assets/prints'
 
 function run() {
     const ids = [];
@@ -13,6 +14,14 @@ function run() {
         const filePath = path.join(printsDir, filename);
         const fileContents = fs.readFileSync(filePath, 'utf8');
         const data = matter(fileContents)['data'];
+
+        if (data.image.filename) {
+            const imagePath = path.join(imagesDir, data.image.filename)
+
+            if (!fs.existsSync(imagePath)) {
+                console.log(`Invalid image: #${data.id} ${data.image.filename}`)
+            }
+        }
 
         if (data.complete === false) {
             console.log(`Incomplete: #${data.id} ${filename}`)
