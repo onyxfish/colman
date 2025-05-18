@@ -15,7 +15,7 @@ publications:
     -    "De Amicis, Edmondo. _Holland and Its People_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums: 
-    -   name: Cleveland
+    -   name: The Cleveland Museum of Art
         url: https://www.clevelandart.org/art/1941.128
 complete: False
 ---

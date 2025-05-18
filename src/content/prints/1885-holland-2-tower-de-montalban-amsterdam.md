@@ -8,16 +8,16 @@ image:
 year: "1885"
 size:
     dimensions: 12.7 x 18.1 cm
-    source: RISD
+    source: Rhode Island School of Design Museum
     source_url: https://risdmuseum.org/art-design/collection/tower-de-montalban-amsterdam-19881134
 signed: In the plate, lower left, interlaced initials S.C.
 publications:
     -    "De Amicis, Edmondo. _Holland and Its People_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums: 
-    -   name: Cleveland
+    -   name: The Cleveland Museum of Art
         url: https://www.clevelandart.org/art/1941.131
-    -   name: RISD
+    -   name: Rhode Island School of Design Museum
         url: https://risdmuseum.org/art-design/collection/tower-de-montalban-amsterdam-19881134
     -   name: Syracuse
         url: https://onlinecollections.syr.edu/objects/41651/tower-de-montalban-amsterdam

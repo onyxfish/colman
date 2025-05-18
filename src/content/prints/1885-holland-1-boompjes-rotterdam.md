@@ -15,12 +15,12 @@ publications:
     -    "De Amicis, Edmondo. _Holland and Its People_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums: 
-    -   name: Cleveland
+    -   name: The Cleveland Museum of Art
         url: https://www.clevelandart.org/art/1941.130
-    -   name: RISD
+    -   name: Rhode Island School of Design Museum
         url: https://risdmuseum.org/art-design/collection/boompjes-rotterdam-19881133
-    -   name: Syracuse
+    -   name: Syracuse University Art Museum
         url: https://onlinecollections.syr.edu/objects/42454/the-boompjes-rotterdam
-complete: False
+complete: True
 ---
 This is the first of three etchings created by Colman for the “Zuyder Zee Edition” of Holland and Its People by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Holland_and_Its_People/OXE-AAAAYAAJ)) It appears opposite page 48.
