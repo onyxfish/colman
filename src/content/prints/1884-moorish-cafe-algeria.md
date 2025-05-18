@@ -2,9 +2,9 @@
 id: 17
 title: Moorish Cafe, Algeria
 image:
-    filename: 
-    caption: 
-    missing_text: View image at [The Museum of Fine Arts Boston](https://collections.mfa.org/objects/340882/moorish-cafe-algeria?ctx=372f9347-45ea-4bc7-ae34-e5f2207ee1cf)
+    filename: 1884-moorish-cafe-algeria.jpg
+    caption: Free-for-educational-use image from the Museum of Fine Arts Boston
+    missing_text: 
 year: "1884"
 size:
     dimensions: 
@@ -14,8 +14,8 @@ signed: In the plate, lower right, “Sam’ Colman”. The only known copy is a
 publications: []
 drawings: []
 museums: 
-    -   name: MFAB
+    -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/objects/340882/moorish-cafe-algeria?ctx=372f9347-45ea-4bc7-ae34-e5f2207ee1cf
-complete: False
+complete: True
 ---
-The only known impression of this etching was given to The Museum of Fine Arts, Boston by Colman in 1885. It’s unknown if any other impressions were made.
+The impression of this etching held by the Museum of Fine Arts Boston was gifted by artist in 1885. No other copies have been located.
