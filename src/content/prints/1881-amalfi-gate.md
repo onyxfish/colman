@@ -19,6 +19,6 @@ museums:
         url: https://www.nga.gov/collection/art-object-page.182500.html
     -   name: Syracuse University Art Museum
         url: https://onlinecollections.syr.edu/objects/41652/amalfi
-complete: False
+complete: True
 ---
 One of four etchings included in _Poets and Etchers_, an important, early thought brought together etchings created by members of the New York Etching Club with poems from important American poets.
