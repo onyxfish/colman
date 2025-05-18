@@ -20,6 +20,6 @@ museums:
     -   name: Rhode Island School of Design Museum
         url: https://risdmuseum.org/art-design/collection/kew-20119631
     -   name: Syracuse University Art Museum
-        url: https://onlinecollections.syr.edu/objects/43322/kew-england?ctx=343f973040e66c2d8f6ef185b39b66adf395a663&idx=6
-complete: False
+        url: https://onlinecollections.syr.edu/objects/43322/kew-england
+complete: True
 ---
