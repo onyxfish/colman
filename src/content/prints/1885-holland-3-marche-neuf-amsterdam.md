@@ -2,10 +2,10 @@
 id: 25
 title: Marché Neuf, Amsterdam
 image:
-    filename: 1885c-holland-3-marche-neuf-amsterdam.jpg
+    filename: 1885-holland-3-marche-neuf-amsterdam.jpg
     caption: Public domain image from The Cleveland Museum of Art.
     missing_text: 
-year: "c. 1885"
+year: "1885"
 size:
     dimensions: 
     source: 

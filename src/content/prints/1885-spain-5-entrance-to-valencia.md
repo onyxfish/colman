@@ -2,10 +2,10 @@
 id: 38
 title: "Entrance to Valencia"
 image:
-    filename: 1885c-spain-5-entrance-to-valencia.jpg
+    filename: 1885-spain-5-entrance-to-valencia.jpg
     caption: Free-for-educational-use image from The High Museum of Art.
     missing_text:
-year: "c. 1885"
+year: "1885"
 size:
     dimensions: 
     source: 

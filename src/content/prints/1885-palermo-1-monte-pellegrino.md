@@ -1,11 +1,11 @@
 ---
-id: 27
-title: The Convent Gate
+id: 26
+title: Monte Pellegrino
 image:
-    filename: 1885c-palermo-2-the-convent-gate.jpg
+    filename: 1885-palermo-1-monte-pellegrino.jpg
     caption: Photo from the author's collection.
     missing_text: 
-year: "c. 1885"
+year: "1885"
 size:
     dimensions: 
     source: 

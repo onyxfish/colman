@@ -2,10 +2,10 @@
 id: 24
 title: Tower de Montalban, Amsterdam
 image:
-    filename: 1885c-holland-2-tower-de-montalban-amsterdam.jpg
+    filename: 1885-holland-2-tower-de-montalban-amsterdam.jpg
     caption: Public domain image from The Cleveland Museum of Art
     missing_text: 
-year: "c. 1885"
+year: "1885"
 size:
     dimensions: 12.7 x 18.1 cm
     source: RISD

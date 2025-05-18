@@ -5,7 +5,7 @@ image:
     filename:
     caption: 
     missing_text: View image at [Google Books](https://www.google.com/books/edition/Spain_and_the_Spaniards/W98_AAAAYAAJ?hl=en&gbpv=1&pg=PA290-IA3&printsec=frontcover).
-year: "c. 1885"
+year: "1885"
 size:
     dimensions: 
     source: 

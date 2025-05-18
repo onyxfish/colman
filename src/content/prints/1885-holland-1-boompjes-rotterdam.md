@@ -2,10 +2,10 @@
 id: 23
 title: The Boompjes, Rotterdam
 image:
-    filename: 1885c-holland-1-boompjes-rotterdam.jpg
+    filename: 1885-holland-1-boompjes-rotterdam.jpg
     caption: Public domain photo from The Cleveland Museum of Art.
     missing_text: 
-year: "c.1885"
+year: "1885"
 size:
     dimensions: 15.5 x 11.9 cm
     source: Syracuse
