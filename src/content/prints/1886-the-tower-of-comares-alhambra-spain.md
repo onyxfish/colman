@@ -4,7 +4,7 @@ title: The Tower of Comares, Alhambra, Spain
 image:
     filename: 
     caption: 
-    missing_text: 
+    missing_text: No image available.
 year: "1886"
 size:
     dimensions: 5 7/8 x 3 7/8 in
