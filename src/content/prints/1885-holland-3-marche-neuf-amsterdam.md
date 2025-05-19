@@ -20,5 +20,3 @@ museums:
 complete: False
 ---
 This is the third of three etchings created by Colman for the “Zuyder Zee Edition” of Holland and Its People by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Holland_and_Its_People/OXE-AAAAYAAJ)) It appears opposite page 250.
-
-It’s likely that this is New Amsterdam, Holland which was shown in the [1880 exhibition](https://www.academia.edu/37356531/Annual_Exhibition_Record_of_the_American_Watercolor_Society_1867_1921_version_2) of the American Watercolor Society.

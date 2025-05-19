@@ -8,7 +8,7 @@ image:
 year: "1877"
 size:
     dimensions: 8.9 x 11.4 cm
-    source: Koehler 1880
+    source: American Art Review
     source_url: https://www.jstor.org/stable/20559686
 signed: 
 publications: []
