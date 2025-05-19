@@ -23,5 +23,5 @@ museums:
         url: https://www.metmuseum.org/art/collection/search/385347
     -   name: National Gallery of Art
         url: https://www.nga.gov/artworks/144945-ruins-mosque-tlemciem-algeria
-complete: False
+complete: True
 ---

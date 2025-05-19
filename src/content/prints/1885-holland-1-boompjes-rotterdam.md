@@ -8,7 +8,7 @@ image:
 year: "1885"
 size:
     dimensions: 15.5 x 11.9 cm
-    source: Syracuse
+    source: Syracuse University Art Museum
     source_url: https://onlinecollections.syr.edu/objects/42454/the-boompjes-rotterdam
 signed: In the plate, lower left, interlaced initials S.C.
 publications:
