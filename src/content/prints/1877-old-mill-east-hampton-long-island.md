@@ -12,6 +12,7 @@ size:
     source_url: https://collection.artbma.org/objects/71053/an-old-mill-at-east-hampton-li
 signed: 
 publications: []
+drawings: []
 museums: 
     -   name: Baltimore Museum of Art
         url: https://collection.artbma.org/objects/71053/an-old-mill-at-east-hampton-li

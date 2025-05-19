@@ -12,6 +12,7 @@ size:
     source_url: https://www.jstor.org/stable/20559686
 signed: 
 publications: []
+drawings: []
 museums: 
     -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/objects/101119/mt-desert-maine

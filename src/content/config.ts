@@ -20,6 +20,10 @@ const printsCollection = defineCollection({
     }),
     signed: z.string().nullable(),
     publications: z.string().array(),
+    drawings: z.object({
+      name: z.string(),
+      url: z.string().url()
+    }).array(),
     museums: z.object({
       name: z.string(),
       url: z.string().url()

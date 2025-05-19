@@ -59,6 +59,15 @@ const { Content } = await print.render();
         </ul>
     }
 
+    {print.data.drawings.length > 0 &&
+        <div class="font-bold pt-2">Drawings</div>
+        <ul class="list-disc ml-4 text-sm">
+        {print.data.drawings.map(d => (
+            <li><a href={d.url}>{d.name}</a></li>
+        ))}
+        </ul>
+    }
+
     {print.data.museums.length > 0 &&
         <div class="font-bold pt-2">Collections</div>
         <ul class="list-disc ml-4 text-sm">

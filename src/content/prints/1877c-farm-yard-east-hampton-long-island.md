@@ -12,6 +12,7 @@ size:
     source_url: 
 signed: In the plate, lower left, “Sam’ Colman”
 publications: []
+drawings: []
 museums: 
     -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/objects/101012/barnyard-at-east-hampton-l-i

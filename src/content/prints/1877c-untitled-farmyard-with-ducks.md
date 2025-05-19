@@ -12,6 +12,7 @@ size:
     source_url: https://americanart.si.edu/artwork/untitled-5184
 signed: In the plate, lower left, “Sam’ Colman”
 publications: []
+drawings: []
 museums: 
     -   name: Smithsonian American Art Museum
         url: https://americanart.si.edu/artwork/untitled-5184
