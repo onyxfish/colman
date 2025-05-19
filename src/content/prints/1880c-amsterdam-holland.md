@@ -8,7 +8,7 @@ image:
 year: "c. 1880"
 size:
     dimensions: 5 1/2 x 9 in
-    source: American Art Review
+    source: The American Art Review
     source_url: https://www.jstor.org/stable/20559686
 signed: "\"signed with the interlaced initials S. C.\" (per American Art Review)"
 publications: []
