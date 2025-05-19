@@ -4,8 +4,8 @@ title: Japanese Inro and Netsukes (No. 2)
 image:
     filename: 
     caption: 
-    missing_text: View image at [The Syracuse University Museum of Art](https://collections.mfa.org/objects/101133/japanese-netsukes)
-year: "c. 1883"
+    missing_text: No image available.
+year: "c. 1880"
 size:
     dimensions: 
     source: 
@@ -14,8 +14,8 @@ signed:
 publications: []
 drawings: []
 museums: 
-    -   name: MFAB (unconfirmed)
+    -   name: Museum of Fine Arts Boston (unconfirmed)
         url: https://collections.mfa.org/objects/101133/japanese-netsukes
-complete: False
+complete: True
 ---
-See [Japanese Inro and Netsukes](#1883-japanese-inro-and-netsukes).
+See [Japanese Inro and Netsukes](#14).

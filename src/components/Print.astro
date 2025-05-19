@@ -42,8 +42,8 @@ const { Content } = await print.render();
     )}
 
     {print.data.publications.length > 0 &&
-        <div class="font-bold pt-2">Published in:</div>
-        <ul class="list-disc pl-8 text-sm">
+        <div class="font-bold pt-2">Publications</div>
+        <ul class="list-disc ml-4 text-sm">
             {print.data.publications.map(p => (
                 <li set:html={marked.parseInline(p)}></li>
             ))}
@@ -51,15 +51,15 @@ const { Content } = await print.render();
     }
 
     {print.data.museums.length > 0 &&
-        <div class="font-bold pt-2">Museum collections:</div>
-        <ul class="list-disc pl-8 text-sm">
+        <div class="font-bold pt-2">Collections</div>
+        <ul class="list-disc ml-4 text-sm">
         {print.data.museums.map(m => (
             <li><a href={m.url}>{m.name}</a></li>
         ))}
         </ul>
     }
 
-    <div class="font-serif pt-8">
+    <div class="content font-serif pt-8">
         <Content /> 
     </div>
 </div>
@@ -81,4 +81,13 @@ const { Content } = await print.render();
     .missing {
         background-color: var(--missing);
     }
+
+    .content :global(ul) {
+        padding-bottom: 0.5rem;
+    }
+
+	.content :global(li) {
+        list-style: disc;
+        margin-left: 1rem;
+	}
 </style>
