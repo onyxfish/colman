@@ -3,11 +3,11 @@ id: 37
 title: "On the Darro, Granada"
 image:
     filename: 1885-spain-4-on-the-darro-granada.jpg
-    caption: Free-for-educational-use image from the High Museum of Art.
+    caption: Image from the author's collection.
     missing_text: 
 year: "1885"
 size:
-    dimensions: 
+    dimensions: 5 7/8 x 4 7/8 in
     source: 
     source_url: 
 signed: In the plate, lower right, "Saml Colman"
@@ -21,7 +21,7 @@ museums:
         url: https://high.org/collection/on-the-darro-granada/
     -   name: Rhode Island School of Design Museum
         url: https://risdmuseum.org/art-design/collection/darro-grenada-20119630
-complete: False
+complete: True
 ---
 This is the fourth of five etchings created by Colman for the “Guadalquivir Edition” of _Spain and the Spaniards_ by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Spain_and_the_Spaniards/W98_AAAAYAAJ)) This etching was bound in as page 396. A a limited number of copies also included a second copy on satin.
 
