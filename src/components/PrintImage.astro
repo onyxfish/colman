@@ -15,10 +15,12 @@ const imagePath = `/src/assets/prints/${filename}`;
 const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/prints/*.{jpeg,jpg,png,gif}');
 ---
 {filename ? (
-    <figure class="block pt-4 pb-2">
-        <Image src={images[imagePath]()} alt="An image of the etching"/>
-        <figcaption class="text-sm text-center italic pt-1">{caption}</figcaption>
-    </figure>
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-2">
+            <Image src={images[imagePath]()} alt="An image of the etching"/>
+            <figcaption class="text-sm text-center italic pt-1">{caption}</figcaption>
+        </figure>
+    </div>
 ) : (
     <div class="missing p-16 my-4 bg-gray-100 text-center italic" set:html={marked.parseInline(missing_text || '')}></div>
 )}
