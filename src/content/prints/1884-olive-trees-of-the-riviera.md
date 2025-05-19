@@ -20,6 +20,8 @@ museums:
         url: https://www.clevelandart.org/art/1919.994
     -   name: The Cleveland Museum of Art
         url: https://www.clevelandart.org/art/2004.207
+    -   name: Minneapolis Institute of Art
+        url: https://collections.artsmia.org/art/53517/the-olive-trees-of-the-riviera-samuel-colman
     -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/objects/101139/olive-trees-of-the-riviera
     -   name: National Academy of Design

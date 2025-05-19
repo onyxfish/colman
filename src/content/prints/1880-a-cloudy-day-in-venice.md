@@ -20,6 +20,8 @@ museums:
         url: https://www.clevelandart.org/art/1919.691
     -   name: Museum of Fine Arts Boston
         url: https://collections.mfa.org/search/Objects/peopleSearch%3ASamuel%20Colman%3Btitle%3AA%20Cloudy%20Day%20in%20Venice/*
+    -   name: National Academy of Design
+        url: https://nationalacademy.emuseum.com/objects/4656/a-cloudy-day-in-venice
     -   name: University of Iowa Stanley Museum of Art
         url: https://digital.lib.uiowa.edu/node/833186
     -   name: Syracuse University Art Museum (as published)

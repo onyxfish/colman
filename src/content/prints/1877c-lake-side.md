@@ -16,6 +16,8 @@ drawings:
     -   name: Cooper Hewitt
         url: https://collection.cooperhewitt.org/objects/18368867/
 museums: 
+    -   name: National Academy of Design
+        url: https://nationalacademy.emuseum.com/objects/4647/the-lakeside
     -   name: Syracuse University Art Museum
         url: https://onlinecollections.syr.edu/objects/41670/the-lakeside
 complete: True
