@@ -1,7 +1,8 @@
 ---
 import { marked } from 'marked'
 import { getEntryBySlug } from 'astro:content';
-import PrintImage from '../components/PrintImage.astro';
+import type { ImageMetadata } from 'astro';
+import { Image } from 'astro:assets';
 
 const { slug } = Astro.props;
 
@@ -10,6 +11,9 @@ const print = await getEntryBySlug('prints', slug);
 if (!print) {
     return null;
 }
+
+const imagePath = `/src/assets/prints/${print.data.image.filename}`;
+const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/prints/*.{jpeg,jpg,png,gif}');
 
 const { Content } = await print.render();
 ---
@@ -20,11 +24,16 @@ const { Content } = await print.render();
         <span class="italic font-bold">{print.data.title}</span>
     </h2>
 
-    <PrintImage
-        filename={print.data.image.filename},
-        caption={print.data.image.caption},
-        missing_text={print.data.image.missing_text}
-        />
+    {print.data.image.filename ? (
+        <div class="flex justify-center">
+            <figure class="block pt-4 pb-2">
+                <Image src={images[imagePath]()} alt="An image of the etching"/>
+                <figcaption class="text-sm text-center italic pt-1">{print.data.image.caption}</figcaption>
+            </figure>
+        </div>
+    ) : (
+        <div class="missing p-16 my-4 bg-gray-100 text-center italic" set:html={marked.parseInline(print.data.image.missing_text || '')}></div>
+    )}
 
     <div class="pt-4"><span class="font-bold">Created:</span> {print.data.year}</div>
 
