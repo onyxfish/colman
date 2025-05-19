@@ -7,9 +7,9 @@ image:
     missing_text: No image available.
 year: "1877"
 size:
-    dimensions: 
-    source: 
-    source_url: 
+    dimensions: 11.6 x 16.0 cm
+    source: Baltimore Museum of Art
+    source_url: https://collection.artbma.org/objects/71053/an-old-mill-at-east-hampton-li
 signed: 
 publications: []
 museums: 
