@@ -21,4 +21,4 @@ museums:
         url: https://onlinecollections.syr.edu/objects/41671/the-belfry-at-bruges
 complete: True
 ---
-One of four etchings included in _Poets and Etchers_, an important, early thought brought together etchings created by members of the New York Etching Club with poems from important American poets.
+One of four etchings included in _Poets and Etchers_, an important, early book that brought together etchings created by members of the New York Etching Club with poems from important American poets.
