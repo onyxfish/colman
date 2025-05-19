@@ -15,10 +15,10 @@ publications:
     -    "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums:
-    -   name: Syracuse
+    -   name: Syracuse University Art museum
         url: https://onlinecollections.syr.edu/objects/41653/in-the-cathedral-cordova
 complete: False
 ---
-This is the second of five etchings created by Colman for the “Guadalquivir Edition” of Spain and the Spaniards by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Spain_and_the_Spaniards/W98_AAAAYAAJ)) This etching was bound in as page 290. A a limited number of copies also included a second copy on satin.
+This is the second of five etchings created by Colman for the “Guadalquivir Edition” of _Spain and the Spaniards_ by Edmondo de Amicis. ([Google Books](https://www.google.com/books/edition/Spain_and_the_Spaniards/W98_AAAAYAAJ)) This etching was bound in as page 290. A a limited number of copies also included a second copy on satin.
 
 The Syracuse University Art Museum holds [a signed trial proof of this etching](https://onlinecollections.syr.edu/objects/41653/in-the-cathedral-cordova) without the lettering.
