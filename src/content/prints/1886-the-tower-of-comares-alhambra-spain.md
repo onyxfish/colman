@@ -11,8 +11,10 @@ size:
     source: The American Art Review
     source_url: https://www.jstor.org/stable/20559686
 signed: 
-publications: []
+publications:
+    - "Irving, Washington. _Irving's Works: Geoffrey Crayon Edition_. Vol. 5, _The Alhambra_. Author’s rev. ed. New York: G.P. Putnam’s Sons, 1886."
 drawings: []
 museums: []
 complete: False
 ---
+This etching serves as the frontispiece of a scarce 1886 edition of Washington Irving's _The Alhambra_.
