@@ -1,10 +1,21 @@
 ---
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
 import Layout from "../layouts/Layout.astro";
+
+const images = import.meta.glob<{ default: ImageMetadata }>(
+    "/src/assets/faq/*.{jpeg,jpg,png,gif,webp}",
+);
 ---
 
 <Layout title="Biography of Samuel Colman">
-    <figure class="block md:w-2/5 md:float-right md:pl-4 pb-4">
-        <img src="/colman_getty.jpg" alt="Samuel Colman" />
+    <figure class="block md:w-1/5 md:float-right md:pl-4 pb-4">
+        <img
+            src={images[
+                "/src/assets/faq/01197888-43b2-47c5-a595-abdbcd1b38ef_616.jpg"
+            ]()}
+            alt="Samuel Colman"
+        />
         <figcaption class="text-sm text-center italic pt-1">
             Sarony & Co., photographer<br />
             [Samuel] Colman, 1880–1885<br />
@@ -23,20 +34,20 @@ import Layout from "../layouts/Layout.astro";
         recognizable work is <a
             href="https://americanart.si.edu/artwork/storm-king-hudson-5183"
             >Storm King on the Hudson</a
-        > from 1866, but he was a prolific and varied artists who worked in a variety
+        > (1866), but he was a prolific and varied artists who worked in a variety
         of styles and media, including etching.
     </p>
 
     <p>
         Colman was born in 1832, in Portland, Maine into a family of
-        Swedenborgian booksellers. His father was a publisher remembered by
+        Swedenborgian booksellers. His father was a publisher best remembered by
         bibliophiles for publishing <em>Hyperion</em>, by a then-unknown Henry
         Wadsworth Longfellow. His mother was a prolific author and editor of
         children's stories, particularly the "Lulu" series.
     </p>
 
     <p>
-        More importantly for Colman's future career, his uncle was the
+        More importantly for Colman's future career, his uncle William was the
         properieter of Colman's Literary Rooms, a New York bookseller that
         doubled as an art gallery. In 1825 the store would become the first
         place to display and sell works by Thomas Cole, the progenitor of the
@@ -46,7 +57,7 @@ import Layout from "../layouts/Layout.astro";
 
     <p>
         Colman spent his early years roving between Portland, Boston, and New
-        York as his furthered pursued different business opportunities, many of
+        York as his father pursued different business opportunities, many of
         which were unsuccessful. By the 1850's, Colman had graduated high
         school, the family had settled in New York, and the young artist had
         begun exhibiting works at the National Academy of Design. While the
@@ -55,15 +66,25 @@ import Layout from "../layouts/Layout.astro";
         bearing a distinct resemblance to Durand's.
     </p>
 
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image src={images["/src/assets/faq/1864_1_20.jpeg"]()} alt="TK" />
+            <figcaption class="text-sm text-center italic pt-1">
+                Meadows and Wild Flowers at Conway (1856) shows Colman's early
+                style under the influence of Durand. Photo from the Frances
+                Lehman Loeb Art Center at Vassar College.
+            </figcaption>
+        </figure>
+    </div>
+
     <p>
         In 1860, at the age of 28, Colman departed on an abbreviated "grand
-        tour" of France and Spain, which would have a huge influence on his art
-        for years to come. The Civil War began while Colman was still abroad. He
-        returned the same year, but never served. How he avoided the draft is
-        unclear, as it's unlikely the family could have afforded the $300
-        "commutation fee." Colman's elder brother William, already a veteran of
-        the Mexican-American War, fought and was killed at the Battle of
-        Corinth.
+        tour" of France and Spain, which would have a huge influence on his art.
+        The Civil War began while Colman was still abroad. He returned the same
+        year, but never served. How he avoided the draft is unclear, as it's
+        unlikely the family could have afforded the $300 "commutation fee."
+        Colman's elder brother William, already a veteran of the
+        Mexican-American War, fought and was killed at the Battle of Corinth.
     </p>
 
     <p>
@@ -72,61 +93,123 @@ import Layout from "../layouts/Layout.astro";
         daughter of Edward Wood Dunham, a tremendously wealthy New York banker.
         The marriage secured for Colman access to the upper echelons of New York
         Society and a relationship with a then-fourteen-year-old Louis Comfort
-        Tiffany, a cousin Anne's by marriage. (Evidence suggests Colman may have
-        taken Tiffany as student.) Two years after his marriage Colman was made
-        a full member of the National Academy of Design and was inducted into
-        the Century Association, a prestigious New York social club.
+        Tiffany, a cousin Anne's by marriage. Two years after his marriage
+        Colman was made a full member of the National Academy of Design and was
+        inducted into the Century Association, a prestigious New York social
+        club.
     </p>
+
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image
+                src={images["/src/assets/faq/SAAM-2011.43_1_screen.jpg"]()}
+                alt="An oil painting showing sailboats in front of the Rock of Gibraltar as storm clouds disperse overhead. The rock, painted in earthy tones, looms over the small boats. To the right a single steam-powered ship emits black smoke from its funnel."
+            />
+            <figcaption class="text-sm text-center italic pt-1">
+                Clearing Storm at Gibraltar (c. 1860) is an example of Colman's
+                early mature style, influnced by his first travels to Europe.
+                Photo from the Smithsonian American Art Museum.
+            </figcaption>
+        </figure>
+    </div>
 
     <p>
         Colman's artistic career was also taking off. In 1864 he held his first
         major sale at Snedecor Gallery, joining with fellow Hudson River
         painters Aaron Draper Shattuck (his sister's husband) and Jervis
-        McEntee. While he had yet to paint his best known works, major
-        masterpieces such as <em>The Hill of the Alhambra, Granada</em> and <em
-            >Storm King on the Hudson</em
-        > would follow within the next two years. Just as he was reaching his mature
-        style in oil, Colman would begin to experiment with watercolor. In 1866 he
-        cofounded the American Society of Painters in Water-Colours, which would
-        later be become the American Watercolor Society.
+        McEntee. He had already painted some of his best known works and major
+        masterpieces, including Storm King on the Hudson would follow within the
+        next two years. Just as he was reaching his mature style in oil, Colman
+        would begin to experiment with watercolor. In 1866 he cofounded the
+        American Society of Painters in Water-Colours, which would later be
+        become the American Watercolor Society.
     </p>
 
-    <p>
-        The remainder of the 1860's and 1870's were extraordinarily successful
-        for Colman. He would produce numerous masterpieces in both watercolor
-        and oil. Notably, some of his most remarkable pictures, such as <em
-            >The Green River, Wyoming</em
-        > would be the product of his travels to the American West. Beginning in
-        1870 he would go as far as Wyoming. He would also return to Europe, this
-        team for a three-and-a-half year trip that included time in North Africa.
-    </p>
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image
+                src={images["/src/assets/faq/SAAM-1929.6.20_4_screen.jpg"]()}
+                alt="TK"
+            />
+            <figcaption class="text-sm text-center italic pt-1">
+                Storm King on the Hudson (1866) is undoubtedly Colman's most
+                famous painting. Photo from the Smithsonian American Art Museum.
+            </figcaption>
+        </figure>
+    </div>
 
     <p>
-        In 1875 Colman held a second major exhibit at Snedecor Gallery. I may be
-        at this event that he met the ultra-wealthy industrialist Henry Osborne
-        Havemeyer. This relationship would profoundly alter the trajectory of
-        Colman's career. Colman would share his burgeoning love of decorative
-        arts, in particular Asian pottery and textiles, with Havemeyer. This
-        would ultimately lead, many years later, to Colman and Louis Comfort
-        Tiffany partnering to design the interiors of Havemeyer's landmark
-        Manhattan mansion. Colman himself would amass a celebrated collection of
-        Asian art, a portion of which he would later gift to the Metropolitan
-        Museum of Art.
+        The remainder of the 1860's and 1870's were extraordinarily productive
+        for Colman. He would produce numerous accomplished works in both
+        watercolor and oil. Some of his most remarkable pictures would be the
+        product of his travels to the American West. Beginning in 1870 he would
+        travel as far as Utah. He would also return to Europe, this time for a
+        three-and-a-half year stay that included time in North Africa.
     </p>
+
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image src={images["/src/assets/faq/1994_2_l.jpg"]()} alt="TK" />
+            <figcaption class="text-sm text-center italic pt-1">
+                Emigrant Train Fording Medicine Bow Creek (1870) shows Colman's
+                development of western themes. Photo from the Pennsylvania
+                Academy of Fine Arts.
+            </figcaption>
+        </figure>
+    </div>
+    <p>
+        In 1875 Colman held a second major exhibit at Snedecor Gallery. It may
+        be at this event that he met the ultra-wealthy industrialist Henry
+        Osborne Havemeyer. This relationship would profoundly alter the
+        trajectory of the artist's career. Colman would share his burgeoning
+        love of decorative arts, in particular Asian pottery and textiles, with
+        Havemeyer. This would ultimately lead, many years later, to Colman and
+        Louis Comfort Tiffany working together to design the interiors of
+        Havemeyer's landmark Manhattan mansion. Colman himself would amass a
+        celebrated collection of Asian art, a portion of which he would later
+        gift to the Metropolitan Museum of Art.
+    </p>
+
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image src={images["/src/assets/faq/83-8-8.jpeg"]()} alt="TK" />
+            <figcaption class="text-sm text-center italic pt-1">
+                Book Cliffs at the Utah Desert (undated) is an example of
+                Colman's mature style of landscape drawing using watercolor and
+                pastel. Photo from the Huntington Library, Art Museum, and
+                Botanical Gardens.
+            </figcaption>
+        </figure>
+    </div>
 
     <p>
         In 1877 Colman took up etching and became a founding member of the New
         York Etching Club. With the "etching revival" already well underway in
         France and England, and New York artists increasingly traveling abroad,
-        it was only a matter of time before the fad reached the New York. A
+        it was only a matter of time before the trend reached the New York. A
         prolific draughtsman, Colman seems to have been drawn the spotinenity of
         etching. Many of his etched works have a loose, curvilinear style that
         is charictaristic of his drawings, but distinctly different from his
-        more formal paintings. While Colman would go on to etch more than fifty
-        plates, his prints never achieved the same recognition as that of some
-        of his peers, notably his close friend and traveling companion Thomas
-        Moran.
+        more formal oil paintings. While Colman would go on to etch more than
+        fifty plates, his prints have never achieved the same recognition as
+        those of some of his peers, notably his close friends and traveling
+        companions Thomas and Mary Nimmo Moran.
     </p>
+
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image
+                src={images[
+                    "/src/assets/faq/1887-ruins-of-a-mosque-tlemcien-algeria.jpg"
+                ]()}
+                alt="TK"
+            />
+            <figcaption class="text-sm text-center italic pt-1">
+                Ruins of a Mosque, Tlemcien, Algeria (1887) shows how Colman
+                adapted his style of drawing to the etching plate.
+            </figcaption>
+        </figure>
+    </div>
 
     <p>
         Colman would paint and etch throughout the 1880's and 1890's, though his
@@ -136,6 +219,16 @@ import Layout from "../layouts/Layout.astro";
         with Tiffany on the Havemeyer mansion and other projects.
     </p>
 
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image src={images["/src/assets/faq/77.102.2.webp"]()} alt="TK" />
+            <figcaption class="text-sm text-center italic pt-1">
+                Late November in a Santa Barbara Cañon, California (1888). In
+                the later years of his life Colman rarely painted, but continued
+                to draw North American scenes. Photo from the Brooklyn Museum.
+            </figcaption>
+        </figure>
+    </div>
     <p>
         In 1902 Anne died. A year later Colman remarried to Lillian Margarat
         Gaffney. Around this time he also began to part ways with significant
@@ -143,18 +236,28 @@ import Layout from "../layouts/Layout.astro";
         artists, and his own paintings in large numbers. In the middle of the
         decade he and his wife sold the Newport house and moved back to New
         York. They also traveled together, first to Mexico and then to Canada.
-        Colman produced many drawings documenting their travels. Then, in
-        1908, at the age of 76, they had a son.
+        Colman produced many drawings documenting their travels. Then, in 1908,
+        at the age of 76, they had a son.
     </p>
 
     <p>
         Colman would devote much of the last twenty years of his life to
-        authoring two esoteric books of art theory: <em
-            >Nature's Harmonic Unity</em
-        > and <em>Proportional Form</em>. Lillian would continue to disperse his
-        art. In 1927 a large collection was sold at Anderson Galleries and in
-        1939 an sizeable collection of drawings was gifted to the Cooper Hewitt.
+        authoring two esoteric books of art theory: Nature's Harmonic Unity and
+        Proportional Form. Lillian would continue to disperse his art. In 1927 a
+        large collection was sold at Anderson Galleries and in 1939 an sizeable
+        collection of drawings was gifted to the Cooper Hewitt.
     </p>
+
+    <div class="flex justify-center">
+        <figure class="block pt-4 pb-8 md:w-4/5">
+            <Image src={images["/src/assets/faq/royal_palms.jpg"]()} alt="TK" />
+            <figcaption class="text-sm text-center italic pt-1">
+                The Royal Palms of Cuernavaca, Mexico (1904) shows Colman
+                interest in art theory during his travels to Mexico in the
+                latter years of his life. Photo from the author's collection.
+            </figcaption>
+        </figure>
+    </div>
 
     <p>
         During his life, Colman's artistic output was often overshadowed by
