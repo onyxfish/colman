@@ -2,12 +2,12 @@
 id: 11
 title: Amalfi [Harbor]
 image:
-    filename: 
-    caption: 
-    missing_text: No image available.
+    filename: 1881-amalfi-harbor.jpg
+    caption: Image from the author's collection.
+    missing_text: 
 year: "1881"
 size:
-    dimensions: 
+    dimensions: 4 1/4 x 6 5/8  in
     source: 
     source_url: 
 signed: In the plate, lower left, interlaced initials S.C.
