@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
 import Layout from "../layouts/Layout.astro";
+import { Code } from "astro:components";
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
     "/src/assets/faq/*.{jpeg,jpg,png,gif,webp}",
@@ -166,16 +167,16 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
         </figure>
     </div>
     <p>
-        In 1875 Colman held a second major exhibit at Snedecor Gallery. It may
-        be at this event that he met the ultra-wealthy industrialist Henry
-        Osborne Havemeyer. This relationship would profoundly alter the
-        trajectory of the artist's career. Colman would share his burgeoning
-        love of decorative arts, in particular Asian pottery and textiles, with
-        Havemeyer. This would ultimately lead, many years later, to Colman and
-        Louis Comfort Tiffany working together to design the interiors of
-        Havemeyer's landmark Manhattan mansion. Colman himself would amass a
-        celebrated collection of Asian art, a portion of which he would later
-        gift to the Metropolitan Museum of Art.
+        In 1875 Colman held a second major show at Snedecor Gallery. It was
+        around this time (and possibly at this event) that he met the
+        ultra-wealthy industrialist Henry Osborne Havemeyer. This relationship
+        would profoundly alter the trajectory of the artist's career. Colman
+        would share his burgeoning love of decorative arts, including Asian
+        pottery and textiles, with Havemeyer. This would ultimately lead, many
+        years later, to Colman and Louis Comfort Tiffany collaborating to design
+        the interiors of Havemeyer's landmark Manhattan mansion. Colman himself
+        would amass a celebrated collection of Asian art, a portion of which he
+        would later gift to the Metropolitan Museum of Art.
     </p>
 
     <div class="flex justify-center">
@@ -195,13 +196,13 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
         York Etching Club. With the "etching revival" already well underway in
         France and England, and New York artists increasingly traveling abroad,
         it was only a matter of time before the trend reached the New York. A
-        prolific draughtsman, Colman seems to have been drawn the spotinenity of
+        prolific draughtsman, Colman seems to have been drawn the spontaneity of
         etching. Many of his etched works have a loose, curvilinear style that
-        is charictaristic of his drawings, but distinctly different from his
-        more formal oil paintings. While Colman would go on to etch more than
-        fifty plates, his prints have never achieved the same recognition as
-        those of some of his peers, notably his close friends and traveling
-        companions Thomas and Mary Nimmo Moran.
+        is charictaristic of his drawings, but distinctly different from his oil
+        paintings. While Colman would go on to etch more than fifty plates, his
+        prints have never achieved the same recognition as those of some of his
+        peers, notably his close friends and traveling companions Thomas and
+        Mary Nimmo Moran.
     </p>
 
     <div class="flex justify-center">
@@ -222,9 +223,9 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
     <p>
         Colman would paint and etch throughout the 1880's and 1890's, though his
         output would slow as he passed his 50th year. In 1884 he and his wife
-        leave New York for an ornate home they had constructed in Newport, Rhode
-        Island. He would also become more active as a decorator, working closey
-        with Tiffany on the Havemeyer mansion and other projects.
+        decamped from New York to an ornate home they had constructed in
+        Newport, Rhode Island. Colman became more active as a decorator, working
+        closely with Tiffany on the Havemeyer mansion and other projects.
     </p>
 
     <div class="flex justify-center">
@@ -238,22 +239,28 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
         </figure>
     </div>
     <p>
-        In 1902 Anne died. A year later Colman remarried to Lillian Margarat
-        Gaffney. Around this time he also began to part ways with significant
-        parts of his collection, selling Asian art, paintings by other American
-        artists, and his own paintings in large numbers. In the middle of the
-        decade he and his wife sold the Newport house and moved back to New
-        York. They also traveled together, first to Mexico and then to Canada.
-        Colman produced many drawings documenting their travels. Then, in 1908,
-        at the age of 76, they had a son.
+        Anne died in 1902 after a long illness. A year later Colman remarried to
+        Lillian Margarat Gaffney. Around this time he also began to part ways
+        with significant parts of his collection, selling Asian art, paintings
+        by other American artists, and his own paintings. In the middle of the
+        decade he and Lillian sold the Newport house and moved back to New York.
+        They also traveled together, first to Mexico and then to Canada. Colman
+        produced many drawings and occasional watercolors documenting their
+        travels. Then, in 1908, at the remarkable age of 76, he fathered a son,
+        another Samuel Colman.
     </p>
 
     <p>
-        Colman would devote much of the last twenty years of his life to
-        authoring two esoteric books of art theory: Nature's Harmonic Unity and
-        Proportional Form. Lillian would continue to disperse his art. In 1927 a
-        large collection was sold at Anderson Galleries and in 1939 an sizeable
-        collection of drawings was gifted to the Cooper Hewitt.
+        Colman would devote much of the final twenty years of his life to work
+        on two esoteric books of art theory: Nature's Harmonic Unity and
+        Proportional Form. Then, in 1920, at the age of 88, Colman died in New
+        York.
+    </p>
+    <p>
+        After his death, Lillian would continue to disperse his art. In 1927 she
+        sold a large collection at Anderson Galleries. In 1939 she gifted more
+        than 150 drawings to the Cooper Hewitt, which remains the largest
+        collection of Colman's work in a single institution.
     </p>
 
     <div class="flex justify-center">
@@ -268,13 +275,13 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
     </div>
 
     <p>
-        During his life, Colman's artistic output was often overshadowed by
-        other artists, as it continues to be today. Many more museum-goers wil
-        recognize the work of Asher B. Durand, George Inness, or Winslow Homer.
-        And yet, Colman's story is threaded just as tightly as theirs into the
-        artistic history of 19th century America. From the rise of the Hudson
-        River School, to the boom of the etching revival, to his knack for
-        satisfying the orientalist demands of the robber barons, he seems to
-        have had an remarkable talent for being in the middle of all of it.
+        Colman's artistic output has often overshadowed by other artists.
+        Museum-goers are more likely to recognize the work of Asher B. Durand,
+        George Inness, or Winslow Homer. But Colman's story is just as tightly
+        threaded into the artistic accomplishments of 19th century America. From
+        the rise of the Hudson River School, to the boom of the etching revival,
+        to his knack for satisfying the orientalist fashion of the robber
+        barons, Colman's legacy knits together critical developments in the
+        history of American art.
     </p>
 </Layout>
