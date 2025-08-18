@@ -12,7 +12,11 @@ size:
     source_url: https://onlinecollections.syr.edu/objects/41668/old-mill-in-the-riviera-valley
 signed: 
 publications: []
-drawings: []
+drawings:
+    -   name: Cooper Hewitt
+        url: https://collection.cooperhewitt.org/objects/18369199/
+    -   name: Cooper Hewitt
+        url: https://collection.cooperhewitt.org/objects/18369201/
 museums: 
     -   name: Syracuse University Art Museum
         url: https://onlinecollections.syr.edu/objects/41668/old-mill-in-the-riviera-valley

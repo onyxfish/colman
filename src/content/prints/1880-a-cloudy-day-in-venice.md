@@ -14,7 +14,9 @@ signed: In the plate, lower right, interlaced initials S.C. Rarely hand-signed.
 publications:
     - "_Original Etchings by American Artists_. New York: Cassell & Company, 1883"
     - "_Gems of American Etchers_. New York: Cassell & Company, 1885"
-drawings: []
+drawings:
+    -   name: Cooper Hewitt
+        url: https://collection.cooperhewitt.org/objects/18369099/
 museums: 
     -   name: The Cleveland Museum of Art
         url: https://www.clevelandart.org/art/1919.691

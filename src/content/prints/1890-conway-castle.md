@@ -12,7 +12,11 @@ size:
     source_url: https://onlinecollections.syr.edu/objects/41667/conway-castle
 signed: In the plate, lower left, interlaced initials S.C. One known copy also hand-signed.
 publications: []
-drawings: []
+drawings:
+    -   name: Cooper Hewitt
+        url: https://collection.cooperhewitt.org/objects/18368891/
+    -   name: Cooper Hewitt
+        url: https://collection.cooperhewitt.org/objects/18368883/
 museums: 
     -   name: Syracuse University Art Museum
         url: https://onlinecollections.syr.edu/objects/41667/conway-castle

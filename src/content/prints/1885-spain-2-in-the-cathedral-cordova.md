@@ -13,7 +13,9 @@ size:
 signed: Unsigned
 publications:
     -    "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
-drawings: []
+drawings:
+    -   name: Cooper Hewitt
+        url: https://collection.cooperhewitt.org/objects/18368873/
 museums:
     -   name: Syracuse University Art museum
         url: https://onlinecollections.syr.edu/objects/41653/in-the-cathedral-cordova
