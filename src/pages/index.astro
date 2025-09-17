@@ -5,9 +5,37 @@ import Layout from "../layouts/Layout.astro";
 import Print from "../components/Print.astro";
 
 const prints = await getCollection("prints");
+
+// Process years for the chart
+type YearCount = { [key: string]: number };
+const yearCounts: YearCount = {};
+prints.forEach(print => {
+    let year = print.data.year.replace('c. ', '').trim();
+    yearCounts[year] = (yearCounts[year] || 0) + 1;
+});
+
+// Fill in missing years with zero counts
+const allYears = Object.keys(yearCounts);
+const minYear = Math.min(...allYears.map(y => parseInt(y)));
+const maxYear = Math.max(...allYears.map(y => parseInt(y)));
+
+const yearData = [];
+for (let year = minYear; year <= maxYear; year++) {
+    yearData.push({
+        year: year.toString(),
+        count: yearCounts[year.toString()] || 0
+    });
+}
+
+// Pass data to client
+const chartData = JSON.stringify(yearData);
 ---
 
 <Layout title="Samuel Colman: A Catalogue Raisonné of Etchings">
+	<div id="year-chart" class="w-full h-48 mb-8" data-chart-data={chartData}>
+		<!-- D3 chart will render here -->
+	</div>
+
 	<form id="sort-ui" class="text-right pb-2">
 		<label for="sort" class="text-sm">Sort by:</label>
 
@@ -22,11 +50,130 @@ const prints = await getCollection("prints");
 	</div>
 </Layout>
 
+<script>
+// Import D3 and create chart
+import * as d3 from 'd3';
+
+interface YearData {
+    year: string;
+    count: number;
+}
+
+// Function to create/update the chart
+function createChart(data: YearData[]) {
+    const chartElement = document.getElementById('year-chart');
+    if (!chartElement) return;
+
+    // Clear existing chart
+    chartElement.innerHTML = '';
+
+    // Chart dimensions
+    const margin = { top: 20, right: 20, bottom: 30, left: 40 };
+    const width = chartElement.offsetWidth - margin.left - margin.right;
+    const height = chartElement.offsetHeight - margin.top - margin.bottom;
+
+    // Create SVG with viewBox for responsiveness
+    const svg = d3.select('#year-chart')
+        .append('svg')
+        .attr('viewBox', `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+        .attr('width', '100%')
+        .attr('height', '100%')
+        .append('g')
+        .attr('transform', `translate(${margin.left},${margin.top})`);
+
+    // Add title
+    svg.append('text')
+        .attr('x', width / 2)
+        .attr('y', -margin.top / 2)
+        .attr('text-anchor', 'middle')
+        .style('font-size', '14px')
+        .text('Etchings published by year');
+
+    // X scale
+    const x = d3.scaleBand()
+        .range([0, width])
+        .padding(0.1);
+
+    // Y scale
+    const y = d3.scaleLinear()
+        .range([height, 0]);
+
+    // Set domains
+    x.domain(data.map(d => d.year));
+    y.domain([0, d3.max(data, d => d.count) || 0]);
+
+    // Add X axis with filtered labels
+    svg.append('g')
+        .attr('transform', `translate(0,${height})`)
+        .call(d3.axisBottom(x)
+            .tickFormat((d) => {
+                const year = parseInt(d as string);
+                return year % 5 === 0 ? d as string : '';
+            })
+        )
+        .selectAll('text')
+        .style('text-anchor', 'middle')
+        .style('font-size', '12px');
+
+    // Add Y axis
+    svg.append('g')
+        .call(d3.axisLeft(y).ticks(5))
+        .selectAll('text')
+        .style('font-size', '12px');
+
+    // Add bars
+    svg.selectAll('rect')
+        .data(data)
+        .join('rect')
+        .attr('x', (d: YearData) => x(d.year) || 0)
+        .attr('width', x.bandwidth())
+        .attr('y', (d: YearData) => y(d.count))
+        .attr('height', (d: YearData) => height - y(d.count))
+        .attr('fill', '#b85429')
+        .attr('opacity', (d: YearData) => d.count === 0 ? 0.2 : 0.8);
+}
+
+// Wait for DOM to be ready
+document.addEventListener('DOMContentLoaded', () => {
+    const chartElement = document.querySelector('#year-chart');
+    if (!chartElement || !(chartElement instanceof HTMLElement)) return;
+    
+    const data = JSON.parse(chartElement.dataset.chartData || '[]') as YearData[];
+    
+    // Create initial chart
+    createChart(data);
+
+    // Update chart on window resize
+    let resizeTimeout: number;
+    window.addEventListener('resize', () => {
+        // Debounce resize events
+        clearTimeout(resizeTimeout);
+        resizeTimeout = window.setTimeout(() => {
+            createChart(data);
+        }, 250);
+    });
+});
+</script>
+
 <script src="../lib/sorter.js"/>
 
 <style>
 	#sort {
 		border-right: 0.5rem solid transparent;
 		padding-right: 0;
+	}
+
+	#year-chart {
+		font-family: 'Fira Sans', sans-serif;
+	}
+
+	#year-chart text {
+		fill: var(--text);
+		font-size: 12px;
+	}
+
+	#year-chart line,
+	#year-chart path {
+		stroke: var(--text);
 	}
 </style>
