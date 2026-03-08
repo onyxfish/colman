@@ -6,7 +6,7 @@
     "vault": "node --env-file-if-exists=.env scripts/vault-to-astro.js",
     "dev": "node --env-file-if-exists=.env scripts/vault-to-astro.js && astro dev",
     "start": "node --env-file-if-exists=.env scripts/vault-to-astro.js && astro dev",
-    "build": "node --env-file-if-exists=.env scripts/vault-to-astro.js && astro check && astro build",
+    "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "validate": "node --env-file-if-exists=.env scripts/validate.js"
