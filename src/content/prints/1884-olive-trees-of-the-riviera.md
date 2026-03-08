@@ -11,7 +11,7 @@ size:
     source: Syracuse University Art Museum
     source_url: https://onlinecollections.syr.edu/objects/42450/the-olive-trees-on-the-riviera-first-state
 signed: In the plate, lower right, interlaced initials S.C. Frequently hand-signed.
-publications: 
+publications:
     - "_Twenty Original American Etchings: Published under the auspices of the New York Etching Club_. New York: Cassell & Company, 1884"
     - "_Gems of American Etchers_. New York: Cassell & Company, 1885"
 drawings: []
@@ -40,3 +40,4 @@ museums:
         url: https://digital.lib.uiowa.edu/islandora/object/ui%3Astanley_2006.275
 complete: True
 ---
+

@@ -3,7 +3,7 @@ id: 8
 title: Durham, England (The Splendor Falls on Castle Walls)
 image:
     filename: 1880-durham-england.jpg
-    caption: Image from the author's collection.
+    caption: "Image from the author's collection."
     missing_text: 
 year: "1880"
 size:
@@ -12,7 +12,7 @@ size:
     source_url: https://www.nga.gov/artworks/182388-durham-england
 signed: In the plate, lower left, interlaced initials S.C. Rarely hand-signed.
 publications:
-    - "The American Art Review, vol. 1, no. 9 (1880)."
+    - The American Art Review, vol. 1, no. 9 (1880).
     - "Nature and Art: Poems and Pictures from the Best Authors and Artists. Boston: Estes and Lauriat, 1882."
     - "American Art and American Art Collections, vol. 2. Boston: E.W. Walker & Company, 1889."
 drawings: []

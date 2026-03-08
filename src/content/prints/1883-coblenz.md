@@ -3,8 +3,8 @@ id: 13
 title: Coblenz
 image:
     filename: 1883-coblenz.jpg
-    caption: Image from the author's collection.
-    missing_text:
+    caption: "Image from the author's collection."
+    missing_text: 
 year: "c. 1883 (per Museum of Fine Arts Boston)"
 size:
     dimensions: 7 5/8 x 5 7/8 in

@@ -1,18 +1,18 @@
 ---
 id: 36
-title: "Torre del Oro, Seville"
+title: Torre del Oro, Seville
 image:
     filename: 1885-spain-3-toro-del-oro-seville.jpg
-    caption: Image from the author's collection.
-    missing_text:
+    caption: "Image from the author's collection."
+    missing_text: 
 year: "1885"
 size:
     dimensions: 2 1/4 x 4 1/4 in
     source: 
     source_url: 
-signed: In the plate, lower right, "Saml Colman"
+signed: "In the plate, lower right, \"Saml Colman\""
 publications:
-    -    "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
+    - "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums: []
 complete: True

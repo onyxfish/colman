@@ -1,6 +1,6 @@
 ---
 id: 10
-title: Amalfi [Gate]
+title: "Amalfi [Gate]"
 image:
     filename: 1882-amalfi-gate.jpg
     caption: Public domain image from The National Gallery of Art.
@@ -12,7 +12,7 @@ size:
     source_url: https://www.nga.gov/collection/art-object-page.182500.html
 signed: In the plate, lower left, interlaced initials S.C. Japan paper edition hand-signed.
 publications:
-    -   "_Poets and Etchers_. Boston: James R. Osgood, 1882."
+    - "_Poets and Etchers_. Boston: James R. Osgood, 1882."
 drawings:
     -   name: Cooper Hewitt
         url: https://collection.cooperhewitt.org/objects/18369083/

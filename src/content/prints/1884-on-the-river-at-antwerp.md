@@ -4,7 +4,7 @@ title: On the River at Antwerp
 image:
     filename: 1884-on-the-river-at-antwerp.jpg
     caption: Free-for-educational-use image from the High Museum of Art.
-    missing_text:
+    missing_text: 
 year: "1884"
 size:
     dimensions: 6.7 x 12.9 cm
@@ -31,3 +31,4 @@ museums:
         url: https://onlinecollections.syr.edu/objects/41629/on-the-river-at-antwerp
 complete: True
 ---
+

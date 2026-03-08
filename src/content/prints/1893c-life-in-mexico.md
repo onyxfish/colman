@@ -7,7 +7,7 @@ image:
     missing_text: No image available.
 year: "c. 1893"
 size:
-    dimensions:
+    dimensions: 
     source: 
     source_url: 
 signed: 

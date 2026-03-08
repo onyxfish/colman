@@ -4,7 +4,7 @@ title: Japanese Inro
 image:
     filename: 
     caption: 
-    missing_text: View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41647/japanese-inro)
+    missing_text: "View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41647/japanese-inro)"
 year: "c. 1880"
 size:
     dimensions: 7.1 x 5.7 cm

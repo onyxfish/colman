@@ -10,7 +10,7 @@ size:
     dimensions: 9.8 x 12.5 cm
     source: National Gallery of Art
     source_url: https://www.nga.gov/artworks/144945-ruins-mosque-tlemciem-algeria
-signed: In the plate, lower left, "Saml Colman"
+signed: "In the plate, lower left, \"Saml Colman\""
 publications:
     - "_Catalogue of the the New York Etching Club Exhibition at the National Academy of Design_. New York: 1887."
 drawings: []
@@ -25,3 +25,4 @@ museums:
         url: https://www.nga.gov/artworks/144945-ruins-mosque-tlemciem-algeria
 complete: True
 ---
+

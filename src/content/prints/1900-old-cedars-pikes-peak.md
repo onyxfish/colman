@@ -1,6 +1,6 @@
 ---
 id: 43
-title: Old Cedars, Pike's Peak
+title: "Old Cedars, Pike's Peak"
 image:
     filename: 
     caption: 

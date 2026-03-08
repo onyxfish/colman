@@ -12,18 +12,18 @@ size:
     source_url: https://artmuseum.princeton.edu/collections/objects/3086
 signed: 
 publications:
-    -   "_The Etcher's Folio_. Philadelphia: H.F. Richter Publishing Company, n.d."
+    - "_The Etcher's Folio_. Philadelphia: H.F. Richter Publishing Company, n.d."
 drawings: []
 museums: 
-    -   name: High Museum of Art ("Old Mill at Wainscott, Long Island")
+    -   name: "High Museum of Art (\"Old Mill at Wainscott, Long Island\")"
         url: https://high.org/collection/old-mill-at-wainscott-long-island/
-    -   name: Minneapolis Institute of Art ("An Old Mill at Wainscotte, L.I.")
+    -   name: "Minneapolis Institute of Art (\"An Old Mill at Wainscotte, L.I.\")"
         url: https://collections.artsmia.org/art/51048/an-old-mill-at-wainscotte-samuel-colman
-    -   name: Museum of Fine Arts Boston ("No. 1. Old Mill, Wainscott, L.I.")
+    -   name: "Museum of Fine Arts Boston (\"No. 1. Old Mill, Wainscott, L.I.\")"
         url: https://collections.mfa.org/objects/101124/no-1-old-mill-wainscott-li
-    -   name: National Academy of Design ("An Old Saw Mill at Wainscott, L.I.")
+    -   name: "National Academy of Design (\"An Old Saw Mill at Wainscott, L.I.\")"
         url: https://nationalacademy.emuseum.com/objects/4654/an-old-saw-mill-at-wainscott-li
-    -   name: Princeton University Art Museum ("Wainscott Windmill")
+    -   name: "Princeton University Art Museum (\"Wainscott Windmill\")"
         url: https://artmuseum.princeton.edu/collections/objects/3086
 complete: True
 ---

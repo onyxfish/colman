@@ -3,7 +3,7 @@ id: 48
 title: The Market at Amsterdam
 image:
     filename: 1880c-the-market-at-amsterdam.jpg
-    caption: Image form the author's collection.
+    caption: "Image form the author's collection."
     missing_text: 
 year: "c. 1880"
 size:

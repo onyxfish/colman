@@ -1,10 +1,10 @@
 ---
 id: 38
-title: "Entrance to Valencia"
+title: Entrance to Valencia
 image:
     filename: 1885-spain-5-entrance-to-valencia.jpg
-    caption: Image from the author's collection.
-    missing_text:
+    caption: "Image from the author's collection."
+    missing_text: 
 year: "1885"
 size:
     dimensions: 4 3/8 x 6 1/4 in
@@ -12,9 +12,9 @@ size:
     source_url: 
 signed: Unsigned
 publications:
-    -    "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
+    - "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
-museums:
+museums: 
     -   name: High Museum of Art
         url: https://high.org/collection/entrance-to-valencia/
 complete: True

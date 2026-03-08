@@ -3,12 +3,13 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro check && astro build",
+    "vault": "node --env-file-if-exists=.env scripts/vault-to-astro.js",
+    "dev": "node --env-file-if-exists=.env scripts/vault-to-astro.js && astro dev",
+    "start": "node --env-file-if-exists=.env scripts/vault-to-astro.js && astro dev",
+    "build": "node --env-file-if-exists=.env scripts/vault-to-astro.js && astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "validate": "scripts/validate.js"
+    "validate": "node --env-file-if-exists=.env scripts/validate.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.3.4",

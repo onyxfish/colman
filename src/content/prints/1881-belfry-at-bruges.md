@@ -4,7 +4,7 @@ title: The Belfry at Bruges
 image:
     filename: 
     caption: 
-    missing_text: View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41671/the-belfry-at-bruges).
+    missing_text: "View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41671/the-belfry-at-bruges)."
 year: "1881"
 size:
     dimensions: 4 7/16 x 3 9/16 in
@@ -12,7 +12,7 @@ size:
     source_url: 
 signed: In the plate, lower right, interlaced initials S.C. Often hand-signed.
 publications:
-    -   "_Poets and Etchers_. Boston: James R. Osgood, 1882."
+    - "_Poets and Etchers_. Boston: James R. Osgood, 1882."
 drawings: []
 museums: 
     -   name: Rhode Island School of Design Museum

@@ -1,9 +1,9 @@
 ---
 id: 11
-title: Amalfi [Harbor]
+title: "Amalfi [Harbor]"
 image:
     filename: 1881-amalfi-harbor.jpg
-    caption: Image from the author's collection.
+    caption: "Image from the author's collection."
     missing_text: 
 year: "1881"
 size:
@@ -12,7 +12,7 @@ size:
     source_url: 
 signed: In the plate, lower left, interlaced initials S.C.
 publications:
-    -   "_Poets and Etchers_. Boston: James R. Osgood, 1882."
+    - "_Poets and Etchers_. Boston: James R. Osgood, 1882."
 drawings: []
 museums: []
 complete: True

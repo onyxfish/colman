@@ -4,7 +4,7 @@ title: Conway Castle
 image:
     filename: 
     caption: 
-    missing_text: View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41667/conway-castle)
+    missing_text: "View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/41667/conway-castle)"
 year: "1890"
 size:
     dimensions: 17.8 x 25.5 cm

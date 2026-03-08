@@ -12,7 +12,7 @@ size:
     source_url: https://risdmuseum.org/art-design/collection/tower-de-montalban-amsterdam-19881134
 signed: In the plate, lower left, interlaced initials S.C.
 publications:
-    -    "De Amicis, Edmondo. _Holland and Its People_. New York: G.P. Putnam's Sons, 1885."
+    - "De Amicis, Edmondo. _Holland and Its People_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums: 
     -   name: The Cleveland Museum of Art

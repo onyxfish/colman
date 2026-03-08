@@ -1,18 +1,18 @@
 ---
 id: 34
-title: "Moorish Mills and the Guadalquivir"
+title: Moorish Mills and the Guadalquivir
 image:
     filename: 1885-spain-1-moorish-mills-and-the-guadalquivir.jpg
-    caption: Image from the author's collection.
+    caption: "Image from the author's collection."
     missing_text: 
 year: "1885"
 size:
     dimensions: 2 1/8 x 4 1/8 in
     source: 
     source_url: 
-signed: In the plate, lower right, "Saml Colman"
+signed: "In the plate, lower right, \"Saml Colman\""
 publications:
-    -    "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
+    - "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
 drawings: []
 museums: []
 complete: True

@@ -4,7 +4,7 @@ title: Old Mill, East Hampton, Long Island
 image:
     filename: 
     caption: 
-    missing_text: View image at [South Bay Auctions](https://www.southbayauctions.com/auction-lot/samuel-colman-american-1832-1920-old-mill-at-east_EB7428D817).
+    missing_text: "View image at [South Bay Auctions](https://www.southbayauctions.com/auction-lot/samuel-colman-american-1832-1920-old-mill-at-east_EB7428D817)."
 year: "1877"
 size:
     dimensions: 11.6 x 16.0 cm

@@ -1,22 +1,22 @@
 ---
 id: 37
-title: "On the Darro, Granada"
+title: On the Darro, Granada
 image:
     filename: 1885-spain-4-on-the-darro-granada.jpg
-    caption: Image from the author's collection.
+    caption: "Image from the author's collection."
     missing_text: 
 year: "1885"
 size:
     dimensions: 5 7/8 x 4 7/8 in
     source: 
     source_url: 
-signed: In the plate, lower right, "Saml Colman"
+signed: "In the plate, lower right, \"Saml Colman\""
 publications:
-    -    "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
+    - "De Amicis, Edmondo. _Spain and the Spaniards_. New York: G.P. Putnam's Sons, 1885."
 drawings:
     -   name: Cooper Hewitt
         url: https://collection.cooperhewitt.org/objects/18368877/
-museums:
+museums: 
     -   name: High Museum of Art
         url: https://high.org/collection/on-the-darro-granada/
     -   name: Rhode Island School of Design Museum

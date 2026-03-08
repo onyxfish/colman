@@ -4,7 +4,7 @@ title: Japanese Inro and Netsukes
 image:
     filename: 
     caption: 
-    missing_text: View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/42452/japanese-inro-and-netsukes)
+    missing_text: "View image at the [Syracuse University Art Museum](https://onlinecollections.syr.edu/objects/42452/japanese-inro-and-netsukes)"
 year: "c. 1880"
 size:
     dimensions: 4 3/4 x 7 3/16 in (Rona Schneider)
@@ -30,4 +30,3 @@ Unfortunantely, exactly how many etchings he made is a extremely difficult to di
 - In [an 1894 article](https://hdl.handle.net/2027/mdp.39015017525703?urlappend=%3Bseq=274%3Bownerid=13510798897445288-304): "Japanese Inro and Netsuke"
 
 Further confusing things, the Museum of Fine Arts Boston has unphotographed etchings catalogued under the titles ["Japanese Inro and Netsukes"](https://collections.mfa.org/objects/101126/japanese-inro-and-netsukes), ["Japanese Netsukes"](https://collections.mfa.org/objects/101133/japanese-netsukes), and ["Japanese Inro"](https://collections.mfa.org/objects/101136/japanese-inro), all dated 1880. Presumably these are the same three prints catalogued here, but it’s difficult to be certain.
-

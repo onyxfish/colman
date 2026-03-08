@@ -4,7 +4,7 @@ title: Farm-yard, East Hampton, Long Island
 image:
     filename: 1877c-farm-yard-east-hampton-long-island.jpg
     caption: Free-for-educational-use image from The Museum of Fine Arts Boston.
-    missing_text:
+    missing_text: 
 year: "c. 1877"
 size:
     dimensions: 
