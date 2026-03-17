@@ -42,8 +42,12 @@ const { Content } = await page.render();
         text-decoration: underline;
     }
 
+    .biography-content :global(#notes) {
+        display: none;
+    }
+
     .biography-content :global([data-footnotes] > h2) {
-        margin-top: 2rem;
+        margin-top: 1.5rem;
         margin-bottom: 0.5rem;
     }
 
