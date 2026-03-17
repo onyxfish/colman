@@ -159,7 +159,7 @@ Colman's story is tightly threaded into the artistic developments of 19th centur
 
 [^28]: Samuel Colman to James D. Smillie, August 12, 1902, Box 1, Folder 4, James D. Smillie and Smillie Family Papers, 1853–1957, Archives of American Art, Smithsonian Institution, Washington, D.C.
 
-[^29]: Ms. Gaffney is listed in the 1900 census as a professional nurse living in a boarding house just a few blocks from the Colmans' home.
+[^29]: Ms. Gaffney is listed in the 1900 census as a professional nurse living in a boarding house just a few blocks from the Colmans' home. A typewritten note attached to the [Samuel Colman papers](https://www.aaa.si.edu/collections/samuel-colman-papers-7493/series-1/folder-1) in the Archives of American Art describes her as "his trained nurse." Given the timing, it seems far more likely she was Anne's nurse.
 
 [^30]: "New York, New York City Births, 1846–1909," *FamilySearch*, entry for Samuel Colman, 4 February 1908, Manhattan, New York; citing Digital Folder 004206407, Microfilm 1991979, Image 1871, https://www.familysearch.org/ark:/61903/1:1:2WC8-6Y3 (accessed March 15, 2026).
 
