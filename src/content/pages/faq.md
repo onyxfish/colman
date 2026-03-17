@@ -27,6 +27,7 @@ To reach me, please email [chrisgroskopf@gmail.com](mailto:chrisgroskopf@gmail.c
 - **June 6th, 2025 —** Added photos and dimensions for [#11 Amalfi &#91;Harbor&#93;](/#11) and [#13 Coblenz](/#13).
 - **May 25th, 2025 —** Initial release with 53 identified etchings.
 - **March 8th, 2026 —** Redesigned the site's content management system. (No actual content changes.)
+- **March 16th, 2026 —** Revised the Biography and added citations.
 
 This project is open source! For a more granular changelog, refer to [the commit history](https://github.com/onyxfish/colman/commits/main/).
 

@@ -24,4 +24,61 @@ const { Content } = await page.render();
         font-style: italic;
         padding-top: 0.25rem;
     }
+
+    /* Footnote superscript references in body text */
+    .biography-content :global(sup) {
+        font-size: 0.7em;
+        line-height: 0;
+        vertical-align: super;
+    }
+
+    .biography-content :global(sup a) {
+        color: var(--links);
+        text-decoration: none;
+        padding: 0 0.1em;
+    }
+
+    .biography-content :global(sup a:hover) {
+        text-decoration: underline;
+    }
+
+    .biography-content :global([data-footnotes] > h2) {
+        margin-top: 2rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .biography-content :global([data-footnotes] ol) {
+        margin: 0;
+        padding-left: 1.5rem;
+        font-size: 0.8rem;
+        color: #6b5744;
+        list-style-type: decimal;
+    }
+
+    .biography-content :global([data-footnotes] li) {
+        margin-bottom: 0.5rem;
+        line-height: 1.5;
+    }
+
+    .biography-content :global([data-footnotes] li p) {
+        display: inline;
+        padding-bottom: 0;
+    }
+
+    /* Back-reference link (↩) */
+    .biography-content :global([data-footnotes] a[data-footnote-backref]) {
+        color: var(--links);
+        text-decoration: none;
+        margin-left: 0.25em;
+        font-size: 0.9em;
+    }
+
+    .biography-content :global([data-footnotes] a[data-footnote-backref]:hover) {
+        text-decoration: underline;
+    }
+
+    /* Forward links within footnote text */
+    .biography-content :global([data-footnotes] a:not([data-footnote-backref])) {
+        color: var(--links);
+    }
 </style>
