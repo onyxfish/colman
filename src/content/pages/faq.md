@@ -47,6 +47,7 @@ The specific catalogue numbers associated with each etching will not change and 
 
 Yes! This website and words on it are is licensed under the [Creative Commmons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/). (CC BY-NC-4.0) All photos retain the copyright of their respective owners and may not be reused without their permission.
 
+The [source code](https://github.com/onyxfish/colman) for this project is licensed under the [MIT license](https://opensource.org/license/mit).
 ### Are you also working on a catalogue raisonne of Colman's paintings?
 
 I was, but it turned out to be too massive a project for the time I have available. I have scaled back to focus on prints for now. That being said, I do have a very large body of research concerning Colman's paintings (more than 250 identified, not including watercolors), and would be happy to share information with other researchers.
