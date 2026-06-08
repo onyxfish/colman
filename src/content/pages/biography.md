@@ -24,7 +24,7 @@ The younger Colman wasted little time establishing himself in the artistic circl
 </figure>
 </div>
 
-In 1860, at the age of 28, Colman departed on a grand tour of Europe.[^11] While he was abroad, the Civil War began and he made the decision to cut the journey short.[^12] The trip, however abbreviated, would inspire many of Colman's early masterpieces, including Clearing Storm at Gibraltar. After returning, it's unclear how Colman avoided the draft, though it's plausible his father or wealthy friends paid the $300 "commutation fee." Meanwhile, his elder brother William, a veteran of the Mexican-American War, fought and was killed at the Battle of Corinth.[^13]
+In 1860, at the age of 28, Colman departed on a grand tour of Europe.[^11] While he was abroad, the Civil War began. He visited Spain and France, then made the decision to cut the journey short.[^12] The trip, however abbreviated, would inspire many of Colman's early masterpieces, including Clearing Storm at Gibraltar. After returning, it's unclear how Colman avoided the draft, though it's plausible his father or wealthy friends paid the $300 "commutation fee." Meanwhile, his elder brother William, a veteran of the Mexican-American War, fought and was killed at the Battle of Corinth.[^13]
 
 The war years were a time of tremendous accomplishment for Colman. In 1862 he married Anne Lawrence Dunham, daughter of Edward Wood Dunham, a fabulously wealthy New York banker.[^14] The marriage secured for Colman financial freedom and a place in the upper echelons of New York Society. It also created the circumstances for him to meet Louis Comfort Tiffany, who's father had joined with the Dunhams to purchase the land on the banks of the Hudson where both families built homes. Tiffany would become an important collaborator later in life.[^15] Two years after marrying Colman was made a full member of the National Academy of Design[^16] and inducted into the Century Association, a prestigious New York social club.[^17]
 
@@ -35,7 +35,7 @@ The war years were a time of tremendous accomplishment for Colman. In 1862 he ma
 </figure>
 </div>
 
-The remainder of the 1860's and 1870's were extraordinarily productive for Colman. In 1864 he held his first major sale at Snedecor Gallery, showing alongside painters Aaron Draper Shattuck and Jervis McEntee.[^18] Over the next few years he would paint major masterpieces, including Storm King on the Hudson. Then, just as he was reaching his zenith as an oil painter, he began to experiment with watercolor. In 1866 he cofounded the American Watercolor Society (then known as the American Society of Painters in Water-Colours) and became its first president.[^19]
+The remainder of the 1860's and 1870's were extraordinarily productive for Colman. In 1864 he held his first major sale at Snedecor Gallery, showing alongside painters Aaron Draper Shattuck and Jervis McEntee.[^18] Over the next few years he would paint major masterpieces, including Storm King on the Hudson. Then, just as he was reaching his zenith as an oil painter, he began to experiment with other media. In 1866 he cofounded the American Watercolor Society (then known as the American Society of Painters in Water-Colours) and became its first president.[^19] The same year, according to James David Smillie, he first began experimenting with "some little free-hand etchings."[^20]
 
 <div class="flex justify-center">
 <figure class="block pt-4 pb-8 md:w-4/5">
@@ -44,7 +44,7 @@ The remainder of the 1860's and 1870's were extraordinarily productive for Colma
 </figure>
 </div>
 
-Colman and his wife traveled widely. Some of his most remarkable pictures, in both oil and watercolor, were inspired by trips to the American West. In 1870 they would travel as far west as the Yosemite Valley.[^20] In 1871 they visited Colorado and Utah.[^21] In 1872 they returned to Europe.[^22] This time Colman's grand tour would not be cut short. They stayed three-and-a-half years, traveling across the continent and even into North Africa.
+Colman and his wife traveled widely. Some of his most remarkable pictures, in both oil and watercolor, were inspired by trips to the American West. In 1870 they would travel as far west as the Yosemite Valley.[^21] In 1871 they visited Colorado and Utah.[^22] In 1872 they returned to Europe.[^23] This time Colman's grand tour would not be cut short. They stayed three-and-a-half years, traveling across the continent and even into North Africa.
 
 <div class="flex justify-center">
 <figure class="block pt-4 pb-8 md:w-4/5">
@@ -53,7 +53,7 @@ Colman and his wife traveled widely. Some of his most remarkable pictures, in bo
 </figure>
 </div>
 
-In 1875 Colman held a second major show at Snedecor Gallery.[^23] It was around the same time that he met the ultra-wealthy industrialist Henry Osborne Havemeyer. This relationship would profoundly alter the trajectory of the artist's career. Colman would share with Havemeyer his burgeoning love of decorative arts, especially Asian pottery and textiles. Years later, Colman would collaborate with Louis Comfort Tiffany to design the interiors of Havemeyer's landmark Manhattan mansion.[^24] Colman would himself amass a celebrated collection of Asian art, a portion of which he would later gift to the Metropolitan Museum of Art.[^25]
+In 1875 Colman held a second major show at Snedecor Gallery.[^24] It was around the same time that he met the ultra-wealthy industrialist Henry Osborne Havemeyer. This relationship would profoundly alter the trajectory of the artist's career. Colman would share with Havemeyer his burgeoning love of decorative arts, especially Asian pottery and textiles. Years later, Colman would collaborate with Louis Comfort Tiffany to design the interiors of Havemeyer's landmark Manhattan mansion.[^25] Colman would himself amass a celebrated collection of Asian art, a portion of which he would later gift to the Metropolitan Museum of Art.[^26]
 
 <div class="flex justify-center">
 <figure class="block pt-4 pb-8 md:w-4/5">
@@ -62,7 +62,7 @@ In 1875 Colman held a second major show at Snedecor Gallery.[^23] It was around 
 </figure>
 </div>
 
-In 1877 Colman took up etching and became a founding member of the New York Etching Club.[^26] With the "etching revival" already well underway in France and England, and New York artists increasingly traveling abroad, it was only a matter of time before the trend reached New York. A prolific draughtsman, Colman seems to have been drawn to the spontaneity of etching. Many of his etchings have the loose, curvilinear style that is characteristic of his drawings, but very different from his oil paintings. While Colman would go on to etch more than fifty plates, his prints never achieved the same recognition as those of some of his peers, notably his close friends and traveling companions Thomas and Mary Nimmo Moran.
+In 1877 Colman took up etching and became a founding member of the New York Etching Club.[^27] With the "etching revival" already well underway in France and England, and New York artists increasingly traveling abroad, it was only a matter of time before the trend reached New York. A prolific draughtsman, Colman seems to have been drawn to the spontaneity of etching. Many of his etchings have the loose, curvilinear style that is characteristic of his drawings, but very different from his oil paintings. While Colman would go on to etch more than fifty plates, his prints never achieved the same recognition as those of some of his peers, notably his close friends and traveling companions Thomas and Mary Nimmo Moran.
 
 <div class="flex justify-center">
 <figure class="block pt-4 pb-8 md:w-4/5">
@@ -71,7 +71,7 @@ In 1877 Colman took up etching and became a founding member of the New York Etch
 </figure>
 </div>
 
-Colman continued to paint and etch throughout the 1880's and 1890's, though his output slowed as the end of the century neared. In 1884 he and his wife decamped from New York to an ornate home they had constructed in Newport, Rhode Island.[^27] Colman became more active as a decorator, working closely with Tiffany on the Havemeyer mansion and other projects.
+Colman continued to paint and etch throughout the 1880's and 1890's, though his output slowed as the end of the century neared. In 1884 he and his wife decamped from New York to an ornate home they had constructed in Newport, Rhode Island.[^28] Colman became more active as a decorator, working closely with Tiffany on the Havemeyer mansion and other projects.
 
 <div class="flex justify-center">
 <figure class="block pt-4 pb-8 md:w-4/5">
@@ -80,17 +80,17 @@ Colman continued to paint and etch throughout the 1880's and 1890's, though his 
 </figure>
 </div>
 
-Anne Colman died in July 1902 after a long illness. In a letter to James Smillie, Colman recounted the horror of his wife's death, and a desperate desire for "a complete change from all I have known of friends or country."[^28]
+Anne Colman died in July 1902 after a long illness. In a letter to James Smillie, Colman recounted the horror of his wife's death, and a desperate desire for "a complete change from all I have known of friends or country."[^29]
 
-In 1903 Colman remarried to Lillian Margaret Gaffney, who was likely his wife's nurse.[^29] They began to sell significant parts of Colman's collections, including Asian art, paintings by other American artists, and his own paintings. The couple relocated to New York and sold the Newport house. They traveled together, first to Mexico and then to Canada. Colman produced many drawings and occasional watercolors documenting their journeys. Then, in 1908, they had a son, the third generation to be named Samuel.[^30]
+In 1903 Colman remarried to Lillian Margaret Gaffney, who was likely his wife's nurse.[^30] They began to sell significant parts of Colman's collections, including Asian art, paintings by other American artists, and his own paintings. The couple relocated to New York and sold the Newport house. They traveled together, first to Mexico and then to Canada. Colman produced many drawings and occasional watercolors documenting their journeys. Then, in 1908, they had a son, the third generation to be named Samuel.[^31]
 
-Colman devoted the final twenty years of his life to work on two books of art theory: *Nature's Harmonic Unity*[^31] and *Proportional Form*.[^32] Neither was well-received and both are largely forgotten today.
+Colman devoted the final twenty years of his life to work on two books of art theory: *Nature's Harmonic Unity*[^32] and *Proportional Form*.[^33] Neither was well-received and both are largely forgotten today.
 
-In 1920, at the age of 88, Colman died in New York.[^33]
+In 1920, at the age of 88, Colman died in New York.[^34]
 
-After his death, Lillian Colman would continue to disperse her husband's art and collections. In 1927 she sold a large collection at Anderson Galleries[^34] and in 1939 she donated more than 150 drawings to the Cooper Hewitt.[^35] The latter bequest remains the single largest collection of Colman's work in a public institution.
+After his death, Lillian Colman would continue to disperse her husband's art and collections. In 1927 she sold a large collection at Anderson Galleries[^35] and in 1939 she donated more than 150 drawings to the Cooper Hewitt.[^36] The latter bequest remains the single largest collection of Colman's work in a public institution.
 
-As fashions changed, Colman would be largely forgotten. A 1976 article in the *American Art Journal* revitalized interest in his work.[^36] Two additional sales of work from the artist's estate in 1981[^37] and 1983[^38] further rehabilitated the artist's reputation.
+As fashions changed, Colman would be largely forgotten. A 1976 article in the *American Art Journal* revitalized interest in his work.[^37] Two additional sales of work from the artist's estate in 1981[^38] and 1983[^39] further rehabilitated the artist's reputation.
 
 <div class="flex justify-center">
 <figure class="block pt-4 pb-8 md:w-4/5">
@@ -141,40 +141,43 @@ Colman's story is tightly threaded into the artistic developments of 19th centur
 
 [^19]: Foster, Kathleen A. *American Watercolor in the Age of Homer and Sargent*. Philadelphia: Philadelphia Museum of Art, 2017.
 
-[^20]: Colman often painted locations he visited years earlier, making it difficult to determine which places he visited on a particular trip. In this case, at least two drawings of Yosemite have surfaced that are clearly dated "May 1870." For one example see "Samuel Colman (1832–1920), California, Yosemite National Park," Arader Galleries, https://aradergalleries.com/products/samuel-colman-1832-1920-california-yosemite-national-park.
+[^20]: Sylvester Rosa Koehler, in [The American Art Review (1880)](https://archive.org/details/jstor-20559686), quotes Colman as saying he first took up etching in 1867, but Smillie's diary records that saw some of Colman's etchings a year earlier, in May 1866. Colman goes on to say he stopped etching "on account of difficulty in having plates printed in a satisfactory manner" until the formation of the New York Etching Club ten years later. For Smillie's diaries see "May 28-29, 1866," The Diaries of James David Smillie, https://smilliediaries.com/#1866/0071
 
-[^21]: Samuel Colman to James D. Smillie, June 5, 1871, Box 1, Folder 4, James D. Smillie and Smillie Family Papers, 1853–1957, Archives of American Art, Smithsonian Institution, Washington, D.C.
+[^21]: Colman often painted locations he visited years earlier, making it difficult to determine which places he visited on a particular trip. In this case, at least two drawings of Yosemite have surfaced that are clearly dated "May 1870." For one example see "Samuel Colman (1832–1920), California, Yosemite National Park," Arader Galleries, https://aradergalleries.com/products/samuel-colman-1832-1920-california-yosemite-national-park.
 
-[^22]: Samuel Colman, U.S. Passport Application, 1872, digital image, *FamilySearch*, https://familysearch.org/ark:/61903/3:1:3QS7-99DC-FL1V.
+[^22]: Samuel Colman to James D. Smillie, June 5, 1871, Box 1, Folder 4, James D. Smillie and Smillie Family Papers, 1853–1957, Archives of American Art, Smithsonian Institution, Washington, D.C.
 
-[^23]: "Mr. Samuel Colman's Paintings," *The New York Times*, Dec. 19, 1875.
+[^23]: Samuel Colman, U.S. Passport Application, 1872, digital image, *FamilySearch*, https://familysearch.org/ark:/61903/3:1:3QS7-99DC-FL1V.
 
-[^24]: Frelinghuysen, Alice Cooney, et al. *Splendid Legacy: The Havemeyer Collection*. New York: Metropolitan Museum of Art, 1993.
+[^24]: "Mr. Samuel Colman's Paintings," *The New York Times*, Dec. 19, 1875.
 
-[^25]: "List of Donations of Works of Art: During the Year 1893," *Annual Report of the Trustees of the Metropolitan Museum of Art*, no. 24 (1893): 580–81, http://www.jstor.org/stable/40303101.
+[^25]: Frelinghuysen, Alice Cooney, et al. *Splendid Legacy: The Havemeyer Collection*. New York: Metropolitan Museum of Art, 1993.
 
-[^26]: *The New York Etching Club Minutes: November 12, 1877, through December 8, 1893*, ed. Stephen A. Fredericks. Houston: Rice University Press, 2009.
+[^26]: "List of Donations of Works of Art: During the Year 1893," *Annual Report of the Trustees of the Metropolitan Museum of Art*, no. 24 (1893): 580–81, http://www.jstor.org/stable/40303101.
 
-[^27]: Meredith, Mark. "Boxcroft," HouseHistree, Mar. 5, 2021, https://househistree.com/houses/boxcroft.
+[^27]: *The New York Etching Club Minutes: November 12, 1877, through December 8, 1893*, ed. Stephen A. Fredericks. Houston: Rice University Press, 2009.
 
-[^28]: Samuel Colman to James D. Smillie, August 12, 1902, Box 1, Folder 4, James D. Smillie and Smillie Family Papers, 1853–1957, Archives of American Art, Smithsonian Institution, Washington, D.C.
+[^28]: Meredith, Mark. "Boxcroft," HouseHistree, Mar. 5, 2021, https://househistree.com/houses/boxcroft.
 
-[^29]: Ms. Gaffney is listed in the 1900 census as a professional nurse living in a boarding house just a few blocks from the Colmans' home. A typewritten note attached to the [Samuel Colman papers](https://www.aaa.si.edu/collections/samuel-colman-papers-7493/series-1/folder-1) in the Archives of American Art describes her as "his trained nurse." Given the timing, it seems far more likely she was Anne's nurse.
+[^29]: Samuel Colman to James D. Smillie, August 12, 1902, Box 1, Folder 4, James D. Smillie and Smillie Family Papers, 1853–1957, Archives of American Art, Smithsonian Institution, Washington, D.C.
 
-[^30]: "New York, New York City Births, 1846–1909," *FamilySearch*, entry for Samuel Colman, 4 February 1908, Manhattan, New York; citing Digital Folder 004206407, Microfilm 1991979, Image 1871, https://www.familysearch.org/ark:/61903/1:1:2WC8-6Y3 (accessed March 15, 2026).
+[^30]: Ms. Gaffney is listed in the 1900 census as a professional nurse living in a boarding house just a few blocks from the Colmans' home. A typewritten note attached to the [Samuel Colman papers](https://www.aaa.si.edu/collections/samuel-colman-papers-7493/series-1/folder-1) in the Archives of American Art describes her as "his trained nurse." Given the timing, it seems far more likely she was Anne's nurse.
 
-[^31]: Colman, Samuel. *Nature's Harmonic Unity*. New York: G. P. Putnam's Sons, 1912.
+[^31]: "New York, New York City Births, 1846–1909," *FamilySearch*, entry for Samuel Colman, 4 February 1908, Manhattan, New York; citing Digital Folder 004206407, Microfilm 1991979, Image 1871, https://www.familysearch.org/ark:/61903/1:1:2WC8-6Y3 (accessed March 15, 2026).
 
-[^32]: Colman, Samuel. *Proportional Form*. New York: G. P. Putnam's Sons, 1920.
+[^32]: Colman, Samuel. *Nature's Harmonic Unity*. New York: G. P. Putnam's Sons, 1912.
 
-[^33]: "Samuel Colman, Painter, Dies at 88," *The New York Times*, Mar. 30, 1920.
+[^33]: Colman, Samuel. *Proportional Form*. New York: G. P. Putnam's Sons, 1920.
 
-[^34]: *The Art Collections of the Late Samuel Colman, N.A.* New York: Anderson Galleries, 1927.
+[^34]: "Samuel Colman, Painter, Dies at 88," *The New York Times*, Mar. 30, 1920.
 
-[^35]: "Mrs. Samuel Colman," Cooper Hewitt, Smithsonian Design Museum, https://collection.cooperhewitt.org/people/18536705/.
+[^35]: *The Art Collections of the Late Samuel Colman, N.A.* New York: Anderson Galleries, 1927.
 
-[^36]: Craven, Wayne. "Samuel Colman (1832–1920): Rediscovered Painter of Far-Away Places." *The American Art Journal*, vol. 8, no. 1 (May 1976): 16–37.
+[^36]: "Mrs. Samuel Colman," Cooper Hewitt, Smithsonian Design Museum, https://collection.cooperhewitt.org/people/18536705/.
 
-[^37]: *Samuel Colman: East and West from Portland*. Portland: Barridoff Galleries, 1981.
+[^37]: Craven, Wayne. "Samuel Colman (1832–1920): Rediscovered Painter of Far-Away Places." *The American Art Journal*, vol. 8, no. 1 (May 1976): 16–37.
 
-[^38]: *The Romantic Landscapes of Samuel Colman at Kennedy Galleries*. New York: Kennedy Galleries, 1983.
+[^38]: *Samuel Colman: East and West from Portland*. Portland: Barridoff Galleries, 1981.
+
+[^39]: *The Romantic Landscapes of Samuel Colman at Kennedy Galleries*. New York: Kennedy Galleries, 1983.
+
