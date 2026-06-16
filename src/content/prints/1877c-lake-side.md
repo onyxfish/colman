@@ -25,6 +25,6 @@ complete: True
 ---
 One of four etchings included in _Poets and Etchers_, an important, early book that brought together etchings created by members of the New York Etching Club with poems from important American poets.
 
-This etching is mentioned in Samuel Rosa Koehler’s article about Colman [from 1880](https://www.jstor.org/stable/20559686) and thus have been created at least two years prior to publication. The content of that article suggests it may have been created in 1877 when Colman “etched several more plates from nature.”
+These etchings were published in 1882, but at least two of them were mentioned in Samuel Rosa Koehler’s article about Colman [published in 1880](https://www.jstor.org/stable/20559686). The content of that article suggests they may have been created as early as 1877 when Colman “etched several more plates from nature.”
 
-A preparatory sketch for this drawing is in [the Cooper Hewitt](https://collection.cooperhewitt.org/objects/18368867/). It is inscribed “Below the Maple masses meet.”
+A preparatory sketch for this etching is in [the Cooper Hewitt](https://collection.cooperhewitt.org/objects/18368867/). It is inscribed “Below the Maple masses meet.”
