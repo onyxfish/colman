@@ -10,8 +10,9 @@ size:
     dimensions: 10.1 x 14.9 cm
     source: Syracuse
     source_url: https://onlinecollections.syr.edu/objects/41670/the-lakeside
-signed: In the plate, lower right, interlaced initials S.C. Always hand-signed.
-publications: []
+signed: In the plate, lower right, interlaced initials S.C. Often hand-signed.
+publications:
+    - "_Poets and Etchers_. Boston: James R. Osgood, 1882."
 drawings:
     -   name: Cooper Hewitt
         url: https://collection.cooperhewitt.org/objects/18368867/
@@ -22,6 +23,8 @@ museums:
         url: https://onlinecollections.syr.edu/objects/41670/the-lakeside
 complete: True
 ---
-This nondescript etching exists in only one public collection: the Rona and Martin Schneider Collection at Syracuse University Art Museum. Two other copies have been seen for sale online. Syracuse University Art Museum dates it to 1882, but it must be earlier since it is mentioned in Samuel Rosa Koehler’s article about Colman [from 1880](https://www.jstor.org/stable/20559686). The content of that article suggests it may have been created in 1877 when Colman “etched several more plates from nature.” All known copies are hand-signed, suggesting it was never published.
+One of four etchings included in _Poets and Etchers_, an important, early book that brought together etchings created by members of the New York Etching Club with poems from important American poets.
 
-A prepatory sketch for this drawing is in [the Cooper Hewitt](https://collection.cooperhewitt.org/objects/18368867/). It is inscribed “Below the Maple masses meet.”
+This etching is mentioned in Samuel Rosa Koehler’s article about Colman [from 1880](https://www.jstor.org/stable/20559686) and thus have been created at least two years prior to publication. The content of that article suggests it may have been created in 1877 when Colman “etched several more plates from nature.”
+
+A preparatory sketch for this drawing is in [the Cooper Hewitt](https://collection.cooperhewitt.org/objects/18368867/). It is inscribed “Below the Maple masses meet.”

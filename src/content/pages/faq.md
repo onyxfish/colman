@@ -28,6 +28,8 @@ To reach me, please email [chrisgroskopf@gmail.com](mailto:chrisgroskopf@gmail.c
 - **May 25th, 2025 —** Initial release with 53 identified etchings.
 - **March 8th, 2026 —** Redesigned the site's content management system. (No actual content changes.)
 - **March 16th, 2026 —** Revised the Biography and added citations.
+- **June 8th, 2026 —** Added reference to [The Diaries of James David Smillie](https://smilliediaries.com/) and did some light editing.
+- **June 16th, 2026 —** Corrected entry for [The Lake Side](/#4) to identify it as one of four etchings published in *Poets and Etchers* (1882).
 
 This project is open source! For a more granular changelog, refer to [the commit history](https://github.com/onyxfish/colman/commits/main/).
 
